@@ -9,7 +9,7 @@ output
 *ReSharper*
 *resharper*
 *.gpState
-*.dotcover
+*.dotCover
 *.eprj
 .idea
 *.pdb
@@ -19,3 +19,15 @@ Thumbs.db
 *.eprj*
 ~*.*
 DebugBuild/
+src/bin
+src/Bin
+src/obj
+src/Obj
+src/*/bin
+src/*/Bin
+src/*/obj
+src/*/Obj
+src/*/*/bin
+src/*/*/obj
+src/*/*/Bin
+src/*/*/Obj
