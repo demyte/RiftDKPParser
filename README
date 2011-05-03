@@ -1,0 +1,30 @@
+INSTALLTION
+=========== 
+ * You need to have .NET 3.5 SP1 (Windows 7/2008 R2, go to Programs and Features, Turn Windows Features On/Off - Win Vista/XP [url]http://www.microsoft.com/downloads/en/details.aspx?FamilyID=ab99342f-5d1a-413d-8319-81da479ab0d7[/url])
+ * Download the zip file
+ * Put all contents into the same directory
+
+USAGE
+====
+ * Fill out all fields in the top section. There is some validation here so that you can not parse with invalid settings or files.
+ * Hit parse
+ * Modify the Members and Loot tabs as required
+ * Take the contents of the "Upload This" tab for use in the online DKP site.
+
+INFORMATION
+=========
+ * It assumes that you will do a /dumpraid at some point
+ * It assumes the format for loot in the designated loot channel:  [Player] - [Item] - ##
+ * The rift log file does not store date and times and the time is stored in GMT time.  The parser will cater for this by converting log times to local time and assuming the time you put in the parser interface is local time.
+
+SOURCE
+=====
+ * Source code is hosted here: https://github.com/demyte/RiftDKPParser
+
+VERSION HISTORY
+================
+v1.0.0.1
+ - Fixed issue with logs being in GMT Date format
+
+v1.0.0.0
+ - Initial version
