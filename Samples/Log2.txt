@@ -1,0 +1,10 @@
+08:00:00: RAID START
+08:05:00: [Raed] has left the raid
+08:10:00: [Raed] has joined the raid
+08:45:00: [Lisani] has joined the raid
+08:45:00: [Raed] has left the raid
+08:50:00: [Raed] has joined the raid
+08:55:00: [Kyopi] has left the raid
+08:57:00: [8. an_loots][Cunce]: [Cunce] - [Air Elemental Heart] - 76
+08:58:00: [8. an_loots][BonJovi]: [Aerosmith] - [Air Joran] - 111
+09:00:00: RAID END

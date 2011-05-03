@@ -1,0 +1,1059 @@
+10:55:48: [8. an_loots][Cunce]: [Cunce] - [Air Elemental Heart] - 76
+10:55:48: Noncombat logging enabled
+10:55:49: [Melthia] has looted [Raptor Claw]!
+10:55:49: [Melthia] has looted [Demon Horn]!
+10:55:55: [7. fewls][Rastan]: I'll have to set it up
+10:55:56: [Jehira] has looted [Twilight Bloom Roots]!
+10:55:59: [Party][Kaleida]: stand at a ball, click it when it glows
+10:56:00: [Party][Melthia]: G
+10:56:04: [Party][Kaleida]: after the lever is pulled
+10:56:26: [Party][Kaleida]: if you have quest
+10:56:28: [Party][Kaleida]: click core
+10:56:32: You received: [Golden Core]
+10:56:34: [Rastan] has looted [Golden Core]!
+10:56:35: [Party][Kaleida]: there's about 4 of these
+10:56:38: [Jehira] has looted [Golden Core]!
+10:57:01: [Tyranny] has logged on
+10:57:01: [7. fewls]: [Tyranny] joined the channel
+10:57:18: [Guild][Tyranny]: hewwwo AN!
+10:57:27: [Guild][Trixi]: hoi hoi ama
+10:57:33: [Guild][Lisani]: hey ama
+10:57:38: [4. Level 1-9][Legionx]: tank lfg IT
+10:57:39: [Jehira] has looted [Shadethorn Log]!
+10:57:43: [Guild][Zeherah]: hey Ama
+10:57:44: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:57:44: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:57:45: Invalid target
+10:57:49: [Guild][Azawrath]: hihi
+10:57:51: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:57:53: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:57:55: [Party][Demyte]: will miss this tho... [Aggressive Block]
+10:57:58: [Jehira] has looted [Soulhide]!
+10:58:14: [Guild][Melthia]: hi ama
+10:58:19: [Guild][Rastan]: Hey Ama :)
+10:58:29: [Party][Kaleida]: groups won't aggro others. 
+10:58:45: [Party][Kaleida]: sure
+10:58:54: [5. Level 40-49][Karnivaal]: anyone for the cyclops arena questline?
+10:59:00: You must be facing your target!
+10:59:05: You must be facing your target!
+10:59:05: [5. Level 40-49][Sinistar]: Level 48 LFG any instance.
+10:59:14: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:59:14: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:59:22: [Jehira] has looted [Soulhide] x 2!
+10:59:35: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:59:39: Can only be used as a reaction
+10:59:43: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+10:59:46: [Raed] has logged on
+10:59:47: [7. fewls]: [Raed] joined the channel
+10:59:51: [Jehira] has looted [Soulhide] x 2!
+10:59:57: [Monzara] has logged on
+10:59:57: [7. fewls]: [Monzara] joined the channel
+11:00:03: [Party][Kaleida]: works well,
+11:00:12: [Party][Kaleida]: can put them on your basic attack too. 
+11:00:20: Ashstorm Arcanist: We need re-enforcements! These creatures are demolishing our rear-guard!
+11:00:22: [Party][Kaleida]: right side
+11:00:32: Ashstorm Arcanist: These are not his minions. These beings were bound by Eth long ago, with the device we seek. Our search must have stirred them from their fiery slumber.
+11:00:42: Smouldaron: Silence mortals! We have no masters.  We are free of Eth and the bindings of our Plane. This is our domain, and you will pay for your intrusion!
+11:00:47: You are too far away
+11:00:51: [4. Level 1-9][Loeki]: tyt
+11:00:59: [Party][Rastan]: its hitler
+11:01:11: Ability cancelled
+11:01:11: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:01:18: [7. fewls][Demyte]: how is rast doing in the dps
+11:01:20: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:01:22: You are too far away
+11:01:28: [7. fewls][Jehira]: not good =p
+11:01:30: [Guild][Immortalis]: anyone for kb guys? up to last boss no trash
+11:01:32: [Jehira] has looted [Soulhide] x 2!
+11:01:34: Target is already dead
+11:01:34: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:01:38: [Kaleida] has looted [Demon Horn]!
+11:01:43: [Guild][Shadian]: what level range?
+11:01:49: [Guild][Immortalis]: 50+
+11:01:53: [Guild][Shadian]: ah right
+11:01:59: [Guild][Shadian]: good luck :P
+11:02:07: [Guild][Immortalis]: Thank you :)
+11:02:08: You must be facing your target!
+11:02:13: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:02:15: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:02:16: You are too far away
+11:02:16: [5. Level 40-49][Serebihm]: Invasion event about to kick off in Shimmersand
+11:02:17: You are too far away
+11:02:20: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:02:36: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:02:37: Target is already dead
+11:02:51: [Party][Kaleida]: might have been my aoe.. no way to turn off the +3 metres on AoE's passive. 
+11:02:57: [Party][Kaleida]: and it's needed for 51pt :/
+11:02:58: [5. Level 40-49][Skullcrusher]: LFG RD
+11:03:01: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:03:02: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:03:05: [Melthia] has looted [Fire Elemental Fragment]!
+11:03:13: [Jehira] has selected Greed for [Monarch's Helm of Fortune]
+11:03:13: [Kaleida] has selected Greed for [Monarch's Helm of Fortune]
+11:03:13: [Rastan] has selected Greed for [Monarch's Helm of Fortune]
+11:03:16: [4. Level 1-9][Legionx]: tank lfg IT
+11:03:16: [Melthia] has selected Greed for [Monarch's Helm of Fortune]
+11:03:17: [Demyte] has selected Greed for [Monarch's Helm of Fortune]
+11:03:17: [Demyte] Greed rolled: 44 for [Monarch's Helm of Fortune]
+11:03:17: [Melthia] Greed rolled: 52 for [Monarch's Helm of Fortune]
+11:03:17: [Jehira] Greed rolled: 5 for [Monarch's Helm of Fortune]
+11:03:17: [Rastan] Greed rolled: 48 for [Monarch's Helm of Fortune]
+11:03:17: [Kaleida] Greed rolled: 98 for [Monarch's Helm of Fortune]
+11:03:17: [Kaleida] has won [Monarch's Helm of Fortune] with a Greed roll of 98
+11:03:17: [Kaleida] has looted [Monarch's Helm of Fortune]!
+11:03:22: [Kaleida] has selected Greed for [Ascendant Robe of the Sovereign]
+11:03:23: [Jehira] has selected Greed for [Ascendant Robe of the Sovereign]
+11:03:23: [Melthia] has selected Greed for [Ascendant Robe of the Sovereign]
+11:03:23: [Demyte] has selected Greed for [Ascendant Robe of the Sovereign]
+11:03:24: [5. Level 40-49][Schwarzerose]: L41 dps/tank war LFG RD
+11:03:27: [Rastan] has selected Greed for [Ascendant Robe of the Sovereign]
+11:03:27: [Demyte] Greed rolled: 42 for [Ascendant Robe of the Sovereign]
+11:03:27: [Melthia] Greed rolled: 23 for [Ascendant Robe of the Sovereign]
+11:03:27: [Jehira] Greed rolled: 81 for [Ascendant Robe of the Sovereign]
+11:03:27: [Rastan] Greed rolled: 53 for [Ascendant Robe of the Sovereign]
+11:03:27: [Kaleida] Greed rolled: 57 for [Ascendant Robe of the Sovereign]
+11:03:27: [Jehira] has won [Ascendant Robe of the Sovereign] with a Greed roll of 81
+11:03:27: [Jehira] has looted [Ascendant Robe of the Sovereign]!
+11:03:36: [Jehira] has looted [Canine GreatClaw]!
+11:03:36: [Jehira] has looted [Fire Elemental Fragment]!
+11:03:40: [Jehira] has looted [Pristine Barghest Pelt]!
+11:03:44: [Jehira] has looted [Darkened Bone]!
+11:03:44: [Jehira] has looted [Soulhide] x 2!
+11:04:04: [Party][Kaleida]: yeah, need to move right away from the ground aoe. 
+11:04:08: [Jehira] has looted [Ironhide] x 2!
+11:04:10: [Kaleida] has looted [Canine GreatClaw]!
+11:04:13: [Party][Demyte]: ok
+11:04:14: [Jehira] has looted [Soulhide] x 2!
+11:04:24: [Melthia] has looted [Spellspun Silk]!
+11:04:24: [Melthia] has looted [Inlaid Planar Sextant]!
+11:04:36: [4. Level 1-9][Legionx]: tank lfg IT
+11:04:37: [Immortalis] has logged off
+11:04:47: Smouldaron: Leave this caldera, intruders! We are free of Eth and will have no masters!
+11:04:52: [Immortalis] has logged on
+11:05:10: You are too far away
+11:05:12: You are too far away
+11:05:24: [Party][Jehira]: lol
+11:06:05: You gained 2514 XP (838 Rested XP) (838 Group Bonus XP)
+11:06:05: Smouldaron: I was free... The years were but moments...
+11:06:13: You received: 23 gold 64 silver
+11:06:17: [Rastan] has selected Greed for [Lavahandling Gauntlets]
+11:06:17: [Demyte] has selected Greed for [Lavahandling Gauntlets]
+11:06:18: [Melthia] has selected Greed for [Lavahandling Gauntlets]
+11:06:21: [5. Level 40-49][Skullcrusher]: LFG RD
+11:06:23: [Kaleida] has selected Greed for [Lavahandling Gauntlets]
+11:06:30: [Jehira] has selected Greed for [Lavahandling Gauntlets]
+11:06:30: [Demyte] Greed rolled: 34 for [Lavahandling Gauntlets]
+11:06:30: [Melthia] Greed rolled: 33 for [Lavahandling Gauntlets]
+11:06:30: [Jehira] Greed rolled: 27 for [Lavahandling Gauntlets]
+11:06:30: [Rastan] Greed rolled: 97 for [Lavahandling Gauntlets]
+11:06:30: [Kaleida] Greed rolled: 45 for [Lavahandling Gauntlets]
+11:06:30: [Rastan] has won [Lavahandling Gauntlets] with a Greed roll of 97
+11:06:30: [Rastan] has looted [Lavahandling Gauntlets]!
+11:06:33: [Party][Kaleida]: orb glowy thing to cick
+11:06:36: [Party][Kaleida]: click even
+11:07:42: You are too far away
+11:07:42: [Guild][Dariyn]: event in Shimmersand
+11:07:44: You are too far away
+11:07:48: You are too far away
+11:08:07: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:08:09: You must be out of combat to use this ability
+11:08:09: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:08:11: You must be out of combat to use this ability
+11:08:16: [Immortalis] has logged off
+11:08:44: You must be facing your target!
+11:08:56: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:09:05: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:09:05: [5. Level 40-49][Schwarzerose]: L41 dps/tank war LFG RD
+11:09:07: [Melthia] has looted [Air Elemental Heart]!
+11:09:08: You must be out of combat to use this ability
+11:09:09: [Kaleida] has looted [Air Elemental Heart]!
+11:09:14: [Jehira] has looted [Air Elemental Heart]!
+11:09:14: [8. an_loots][Jehira]: [Jehira] - [Air Elemental Heart] - 76
+11:09:39: [Guild][Azawrath]: anyone for [Regal Cuirass of the Fortress]?
+11:09:39: [7. fewls][Jehira]: aroubnd 50 dps rast
+11:09:43: Invalid target
+11:09:49: You are too far away
+11:10:00: [Party][Kaleida]: that's mel
+11:10:01: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:10:08: [7. fewls][Jehira]: kasl is 250
+11:10:09: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:10:11: [7. fewls][Jehira]: mel is 400
+11:10:15: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:10:17: Not enough attack points
+11:10:18: You received: [Air Elemental Heart]
+11:10:31: You must be facing your target!
+11:10:35: [7. fewls][Jehira]: dem is 150 but just went down to 90ish in this build
+11:10:36: [7. fewls][Rastan]: Need them all clumped  :)
+11:10:39: You are too far away
+11:10:39: [7. fewls][Azawrath]: o snap
+11:10:43: You must be facing your target!
+11:10:44: You must be facing your target!
+11:10:53: Ability cancelled
+11:10:53: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:10:54: [7. fewls][Jehira]: I am 0, so you beating me
+11:10:56: Can only be used as a reaction
+11:11:04: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:11:17: [Melthia] has looted [Orichalcum Ore]!
+11:11:17: [Melthia] has looted [Lightspar Agate]!
+11:11:41: [Immortalis] has logged on
+11:11:48: [Party][Kaleida]: helped with it
+11:11:50: [Kaleida] has looted [Air Elemental Heart]!
+11:11:57: [Party][Kaleida]: yeah, 4 people works for it
+11:11:59: [Jehira] has looted [Twilight Bloom Roots] x 3!
+11:12:02: [7. fewls][Rastan]: ned build Aza, plus lvl 47 :)
+11:12:04: [Party][Kaleida]: yeh, we did it with wrenn and a pug
+11:12:16: [7. fewls][Rastan]: new too
+11:12:27: [7. fewls][Azawrath]: hehe yeah
+11:12:27: [Party][Kaleida]: lots of wisps
+11:12:56: [7. fewls][Rastan]: no gear upgrade in ages. Plus I usually tank :)
+11:13:17: [7. fewls][Azawrath]: you remember to train your skills? 8^P
+11:13:18: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:13:23: [7. fewls][Demyte]: lol
+11:13:30: [7. fewls][Rastan]: Yeah did that part :)
+11:13:32: [Melthia] has looted [Shining Elemental Shard]!
+11:13:52: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:13:53: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:13:55: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:13:56: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:13:57: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:13:58: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:14:01: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:14:05: You must be facing your target!
+11:14:13: Can only be used as a reaction
+11:14:16: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:14:18: You received: [Air Elemental Heart]
+11:14:18: You received: [Shining Elemental Shard]
+11:14:21: [Kaleida] has looted [Shining Elemental Shard]!
+11:14:25: You are too far away
+11:14:46: Target is already dead
+11:14:46: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:14:54: [Jehira] has looted [Air Elemental Heart]!
+11:14:55: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:15:08: [Melthia] has looted [Orichalcum Ore] x 2!
+11:15:08: [Melthia] has looted [Lightspar Agate]!
+11:16:01: [Kaleida] has looted [Shadethorn Log]!
+11:16:01: [Party][Kaleida]: foraging
+11:16:05: [Jehira] has looted [Bright Wisp Heart]!
+11:16:10: [Party][Jehira]: thief
+11:16:10: [Party][Kaleida]: wood, not flower
+11:16:20: [Party][Kaleida]: leaving flowers for jeh
+11:16:27: [Party][Rastan]: how sweet
+11:16:37: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:38: You must be facing your target!
+11:16:41: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:43: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:43: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:43: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:43: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:45: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:48: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:16:49: You must have a target selected!
+11:16:52: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:16:55: [Melthia] has looted [Bright Wisp Heart]!
+11:16:58: [7. fewls][Jehira]: heh
+11:17:02: [Melthia] has looted [Bright Wisp Heart]!
+11:17:04: [Rastan] has looted [Shining Elemental Shard]!
+11:17:04: [Rastan] has looted [Bright Wisp Heart]!
+11:17:04: [Kaleida] has looted [Bright Wisp Heart]!
+11:17:05: [Kaleida] has looted [Air Elemental Heart]!
+11:17:08: [7. fewls][Jehira]: Kal 1000dps, rast 100
+11:17:23: [7. fewls][Azawrath]: hehe go kal!
+11:17:23: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:17:24: Invalid target
+11:17:31: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:17:32: Invalid target
+11:17:37: [7. fewls][Jehira]: dropped to 950 after the fight, so i lied a bit
+11:17:48: [7. fewls][Jehira]: sounds better to say 1000 though
+11:18:00: [7. fewls][Rastan]: I find with Melee, you have to be always facing the mob to attack or up close.
+11:18:16: [Guild][Lluolinn]: event in stillmoor soon
+11:18:16: [7. fewls][Rastan]: Its less forgiving then EQ2
+11:18:16: [7. fewls][Raed]: Words of widsom indeed
+11:18:17: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:18:42: [7. fewls][Jehira]: 7 dps rast, stop typing
+11:18:56: [Immortalis] has logged off
+11:19:01: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:19:03: You received: [Air Elemental Heart]
+11:19:22: Not enough attack points
+11:19:23: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:25: Target is already dead
+11:19:25: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:25: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:25: Target is already dead
+11:19:25: Target is already dead
+11:19:26: Target is already dead
+11:19:26: Target is already dead
+11:19:26: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:26: Target is already dead
+11:19:26: Target is already dead
+11:19:27: Target is already dead
+11:19:27: Target is already dead
+11:19:27: Target is already dead
+11:19:27: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:27: Target is already dead
+11:19:31: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:35: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:19:36: Invalid target
+11:19:37: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:39: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:19:41: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:19:42: You must have a target selected!
+11:19:46: [Melthia] has selected Greed for [Marksman's Breeches of the Stalwart]
+11:19:47: [Demyte] has selected Greed for [Marksman's Breeches of the Stalwart]
+11:19:47: [Kaleida] has selected Greed for [Marksman's Breeches of the Stalwart]
+11:19:47: [Jehira] has selected Greed for [Marksman's Breeches of the Stalwart]
+11:19:50: [Rastan] has selected Greed for [Marksman's Breeches of the Stalwart]
+11:19:50: [Demyte] Greed rolled: 84 for [Marksman's Breeches of the Stalwart]
+11:19:50: [Melthia] Greed rolled: 35 for [Marksman's Breeches of the Stalwart]
+11:19:50: [Jehira] Greed rolled: 51 for [Marksman's Breeches of the Stalwart]
+11:19:50: [Rastan] Greed rolled: 9 for [Marksman's Breeches of the Stalwart]
+11:19:50: [Kaleida] Greed rolled: 24 for [Marksman's Breeches of the Stalwart]
+11:19:50: [Demyte] has won [Marksman's Breeches of the Stalwart] with a Greed roll of 84
+11:19:50: You received: [Marksman's Breeches of the Stalwart]
+11:19:54: [Melthia] has looted [Air Elemental Heart]!
+11:19:54: [Melthia] has looted [Bright Wisp Heart]!
+11:19:54: [Party][Jehira]: what was that heal at the start dem
+11:20:00: [Kaleida] has looted [Bright Wisp Heart]!
+11:20:00: [Kaleida] has looted [Bright Wisp Heart]!
+11:20:00: [Party][Demyte]: :)
+11:20:05: [Party][Demyte]: [Creeping Death]
+11:20:12: You must be facing your target!
+11:20:16: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:20:19: [Party][Demyte]: on 10 mobs it rocks
+11:20:22: [Party][Jehira]: can you use it in the middle?
+11:20:26: [Party][Demyte]: hehe
+11:20:29: [Party][Rastan]: heheh
+11:20:35: [Party][Demyte]: and at the end?
+11:20:35: [7. fewls][Raed]: aza did you end up getting those arena quests?
+11:20:48: Required conditions not met
+11:20:49: You are too far away
+11:20:52: You are too far away
+11:20:53: [Party][Jehira]: well the pull is ever an issue, its after the buffs run dow
+11:20:57: [Party][Jehira]: never
+11:20:59: [Party][Demyte]: ok
+11:21:11: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:21:27: [7. fewls][Rastan]: I should have also said Jark. I havent seen any PBAOE for melee yet. Thats what my statement of the obvious was about :)
+11:21:33: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:21:34: [7. fewls][Azawrath]: didn't get the last step
+11:21:39: [Guild]: Lisani earned achievement: [Sleeping with the Fishes]
+11:21:39: [Party][Demyte]: so the heal is actually that dot i linked - 150% times for each tick on each mob
+11:21:44: [Melthia] has selected Greed for [Marksman's Breeches of the Sinister]
+11:21:45: [Kaleida] has selected Greed for [Marksman's Breeches of the Sinister]
+11:21:45: [Rastan] has selected Greed for [Marksman's Breeches of the Sinister]
+11:21:45: [Jehira] has selected Greed for [Marksman's Breeches of the Sinister]
+11:21:48: [Demyte] has selected Greed for [Marksman's Breeches of the Sinister]
+11:21:48: [Demyte] Greed rolled: 33 for [Marksman's Breeches of the Sinister]
+11:21:48: [Melthia] Greed rolled: 49 for [Marksman's Breeches of the Sinister]
+11:21:48: [Jehira] Greed rolled: 59 for [Marksman's Breeches of the Sinister]
+11:21:48: [Rastan] Greed rolled: 33 for [Marksman's Breeches of the Sinister]
+11:21:48: [Kaleida] Greed rolled: 13 for [Marksman's Breeches of the Sinister]
+11:21:48: [Jehira] has won [Marksman's Breeches of the Sinister] with a Greed roll of 59
+11:21:48: [Jehira] has looted [Marksman's Breeches of the Sinister]!
+11:21:49: You are too far away
+11:21:50: You are too far away
+11:21:51: You are too far away
+11:21:52: [Kaleida] has looted [Air Elemental Heart]!
+11:21:52: [7. fewls][Azawrath]: where 3 come at you
+11:21:53: You are too far away
+11:21:54: [7. fewls][Raed]: haha... it becomes a bit more common in experts. 
+11:22:06: [7. fewls][Raed]: want a hand with it? i'm just hanging around lfg at the moment
+11:22:07: [Guild]: Snav earned achievement: [Razing the Dead]
+11:22:16: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:22:23: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:22:40: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:22:49: [Kaleida] has looted [Air Elemental Heart]!
+11:22:51: [Party][Melthia]: i have an emergency shield too, if i remember to use it
+11:22:55: [7. fewls][Azawrath]: sure... would need more tho i think unless you can smash them
+11:23:07: [Snav] has logged off
+11:23:15: [7. fewls][Raed]: do you have a bard spec? should be able to tank if you can bard heal
+11:23:23: [Arasaki] has logged off
+11:23:31: [7. fewls][Azawrath]: that i do
+11:23:43: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:23:44: You received: [Air Elemental Heart]
+11:24:06: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:10: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:10: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:10: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:10: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:10: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:11: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:12: Invalid target
+11:24:14: You gained 471 XP (157 Rested XP) (157 Group Bonus XP)
+11:24:16: [Party][Jehira]: sec
+11:24:17: [Melthia] has looted [Shining Elemental Shard]!
+11:24:19: You received: [Bright Wisp Heart]
+11:24:21: [Party][Kaleida]: boss next
+11:24:23: [Immortalis] has logged on
+11:24:27: [Jehira] has looted [Twilight Bloom Roots]!
+11:24:32: [Kaleida] has looted [Bright Wisp Heart]!
+11:24:32: [Rastan] has looted [Bright Wisp Heart]!
+11:24:37: [Jehira] has looted [Shining Elemental Shard]!
+11:24:41: [Jehira] has looted [Bright Wisp Heart]!
+11:24:59: [Party][Kaleida]: he's got a PBAoE that's basically an instakill
+11:25:07: [Party][Kaleida]: so when he emotes, run back behind the first grate. 
+11:25:31: [Party][Kaleida]: there'll also be wisps that show up and track to random people. if they hit, they'll deal damage. 
+11:25:33: [Party][Melthia]: also has adds that run around the room and damage on touch, and then explode and do air dmg
+11:26:01: [Party][Kaleida]: sometimes you can also get trapped, so you can't move or cast. wears off in a couple of seconds. 
+11:26:09: [Party][Kaleida]: main thing is to avoid the pbaoe. 
+11:26:15: [Party][Kaleida]: so $$ melee's
+11:26:59: [Party][Kaleida]: that grate just inside
+11:27:32: [Guild][Immortalis]: hey guys anyone want [Ascendant Tunic of the Tenacious]? :)
+11:28:39: Cyclorax: By gale and gust, I will break you. Lightning will ravage your bones!
+11:28:47: [Party][Kaleida]: backu p jeh
+11:28:57: A storm rages inside Cyclorax!
+11:29:00: [Party][Kaleida]: ,poe
+11:29:00: You must be facing your target!
+11:29:04: [Party][Kaleida]: that was move :)
+11:29:08: You are too far away
+11:29:21: A storm rages inside Cyclorax!
+11:29:39: Ability is blocked
+11:29:44: A storm rages inside Cyclorax!
+11:29:51: Current Soul Vitality: 90%
+11:29:52: Ability is blocked
+11:30:08: A storm rages inside Cyclorax!
+11:30:20: [Party][Jehira]: lawl
+11:30:31: A storm rages inside Cyclorax!
+11:30:41: You gained 2514 XP (838 Rested XP) (838 Group Bonus XP)
+11:30:41: Cyclorax: I subside... Treasure these calm moments, mortals. They shall not last!
+11:30:57: Jehira is attempting to resurrect you
+11:31:23: You received: 18 gold 35 silver
+11:31:27: [Demyte] has selected Greed for [Tempest Breeches]
+11:31:27: [Melthia] has selected Greed for [Tempest Breeches]
+11:31:28: [Jehira] has selected Greed for [Tempest Breeches]
+11:31:28: [Rastan] has selected Greed for [Tempest Breeches]
+11:31:34: [Kaleida] has selected Greed for [Tempest Breeches]
+11:31:34: [Demyte] Greed rolled: 52 for [Tempest Breeches]
+11:31:34: [Melthia] Greed rolled: 80 for [Tempest Breeches]
+11:31:34: [Jehira] Greed rolled: 31 for [Tempest Breeches]
+11:31:34: [Rastan] Greed rolled: 58 for [Tempest Breeches]
+11:31:34: [Kaleida] Greed rolled: 9 for [Tempest Breeches]
+11:31:34: [Melthia] has won [Tempest Breeches] with a Greed roll of 80
+11:31:34: [Melthia] has looted [Tempest Breeches]!
+11:31:45: [Party][Kaleida]: can you guys heare the 'buhdabom"  sound effect before he does the big AoE?
+11:32:07: [Guild]: Dariyn earned achievement: [Sand Storm Serpent Slayer]
+11:32:17: [Party][Kaleida]: helps a lot for bosses though. 
+11:33:09: [Party][Kaleida]: the eagle patrols too
+11:33:17: [Party][Kaleida]: so can get an add easy
+11:33:22: [4. Level 1-9][Hexx]: <Acedia> Casuals & Raiders 18+ only, due to our vulgar chat. Join our family to be a part of the awesomeness! PST or visit http://rifttorture.guildportal.com =)
+11:33:50: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:33:57: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:34:00: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:34:36: [Arthia] has logged off
+11:34:36: Can only be used as a reaction
+11:34:57: [Tarukai] has logged on
+11:35:04: [Shadian] has logged off
+11:35:07: [Party][Kaleida]: or change to something less taunty like a pyro :p
+11:35:12: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:35:13: You must have a target selected!
+11:35:18: You received: 20 silver
+11:35:18: You received: [Spellspun Silk]
+11:35:21: [Guild]: Azawrath earned achievement: [Champion of the Droughtlands]
+11:35:27: [Guild][Demyte]: grats champ
+11:35:36: [Guild][Trixi]: gratseses
+11:35:37: [Guild][Immortalis]: anyone up for experts? :)
+11:35:46: [Guild][Trixi]: katts just hardcore
+11:35:48: [Melthia] has looted [Huge Polished Talon]!
+11:36:23: [Party][Kaleida]: and using [Mien of Honor] is supposed to help with nuke threat.. 
+11:36:34: [Party][Kaleida]: ^mitigation. 
+11:36:38: [Kaleida] has looted [Dull Storm Signet]!
+11:36:58: [Party][Kaleida]: for the threat reduction?
+11:37:21: [Guild]: Lisani earned achievement: [Seeking Solace]
+11:37:22: [Party][Jehira]: kals dps is 4x dems
+11:37:24: [Party][Kaleida]: eh? so one button faceroll macro is bad?
+11:37:39: Current Soul Vitality: 80%
+11:37:56: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:38:04: *[Jehira] goes to sleep.*
+11:38:19: [Party][Jehira]: walking
+11:38:45: [Tarukai] has logged off
+11:38:57: [Party][Kaleida]: i might buy that summonable healer sometime
+11:38:58: Jehira is attempting to resurrect you
+11:38:59: [Arthia] has logged on
+11:39:01: [Party][Kaleida]: see how it works. 
+11:39:08: [Party][Kaleida]: not sure. 
+11:39:19: You received: 36 silver
+11:39:19: [Party][Kaleida]: bought a 50 planarite summon reenforcement thing
+11:39:25: [Party][Kaleida]: and it put it in my skillbar
+11:39:33: [5. Level 40-49][Greystone]: DPS LFG RD
+11:39:38: [Immortalis] whispers: hey man you up for Rd t2?
+11:39:53: To [Immortalis]: in the middle of CC atm - and am not 50 yet
+11:39:59: [Immortalis] whispers: oh 
+11:40:08: [7. fewls][Raed]: Futurama! Brannigans Mark is like Brannigans law~ [Brannigan's Mark]
+11:40:15: To [Immortalis]: lack of internets for 2 days at home hampered my lvling
+11:40:15: [5. Level 40-49][Schwarzerose]: L 41 dps /tank war LFG for RD
+11:40:26: [7. fewls][Rastan]: Good observation :)
+11:40:26: [Immortalis] whispers: ahh lol :)
+11:40:32: [5. Level 40-49][Williamtell]: dps also lfg RD
+11:41:06: Falon has logged on
+11:41:13: [Party][Kaleida]: you see pyro's are getting a new skill?
+11:41:23: [Party][Kaleida]: yeah
+11:41:27: You are too far away
+11:41:29: [Party][Kaleida]: makes next circle insta too
+11:41:39: [Party][Kaleida]: cant reach caster
+11:41:44: You must be facing your target!
+11:41:52: [Guild]: Arthia earned achievement: [Journeyman Crafter]
+11:41:55: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:41:56: Invalid target
+11:41:59: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:42:03: You received: 40 silver
+11:42:05: [Melthia] has selected Greed for [Ascendant Mace of the Defender]
+11:42:06: [Kaleida] has selected Greed for [Ascendant Mace of the Defender]
+11:42:07: [Rastan] has selected Greed for [Ascendant Mace of the Defender]
+11:42:09: [Demyte] has selected Greed for [Ascendant Mace of the Defender]
+11:42:12: [Jehira] has selected Greed for [Ascendant Mace of the Defender]
+11:42:12: [Demyte] Greed rolled: 91 for [Ascendant Mace of the Defender]
+11:42:12: [Melthia] Greed rolled: 86 for [Ascendant Mace of the Defender]
+11:42:12: [Jehira] Greed rolled: 71 for [Ascendant Mace of the Defender]
+11:42:12: [Rastan] Greed rolled: 79 for [Ascendant Mace of the Defender]
+11:42:12: [Kaleida] Greed rolled: 91 for [Ascendant Mace of the Defender]
+11:42:12: [Demyte] has won [Ascendant Mace of the Defender] with a Greed roll of 91
+11:42:12: You received: [Ascendant Mace of the Defender]
+11:42:34: [7. fewls][Monzara]: can someone invite burley please its burlz alt
+11:42:39: Not enough attack points
+11:42:42: Invitation Sent
+11:42:45: [Guild]: [Burley] joined the guild
+11:42:45: [7. fewls][Demyte]: done
+11:42:50: [7. fewls][Monzara]: cheers
+11:43:01: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:43:02: [Guild][Tyranny]: hey frnd :)
+11:43:06: [Rastan] has looted [Huge Polished Talon]!
+11:43:06: [Kaleida] has selected Greed for [Greater Healing Potion]
+11:43:06: [Jehira] has selected Greed for [Greater Healing Potion]
+11:43:06: [Rastan] has selected Greed for [Greater Healing Potion]
+11:43:07: [Melthia] has selected Greed for [Greater Healing Potion]
+11:43:10: [Guild][Burley]: hai!
+11:43:16: [Demyte] has selected Greed for [Greater Healing Potion]
+11:43:16: [Demyte] Greed rolled: 32 for [Greater Healing Potion]
+11:43:16: [Melthia] Greed rolled: 58 for [Greater Healing Potion]
+11:43:16: [Jehira] Greed rolled: 97 for [Greater Healing Potion]
+11:43:16: [Rastan] Greed rolled: 70 for [Greater Healing Potion]
+11:43:16: [Kaleida] Greed rolled: 88 for [Greater Healing Potion]
+11:43:16: [Jehira] has won [Greater Healing Potion] with a Greed roll of 97
+11:43:16: [Jehira] has looted [Greater Healing Potion]!
+11:43:49: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:43:59: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:44:00: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:44:03: You received: [Spellspun Silk]
+11:44:03: You received: [Jeweled Scale]
+11:44:03: You received: 21 silver
+11:44:03: You received: 39 silver
+11:45:00: Can only be used as a reaction
+11:45:05: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:45:10: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:45:13: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:45:13: You must have a target selected!
+11:45:15: You received: 30 silver
+11:45:20: [Melthia] has looted [Stormlady's Insignia]!
+11:45:21: [Kaleida] has looted [Jeweled Scale]!
+11:45:40: [7. fewls]: [Azawrath] left the channel
+11:45:40: [Azawrath] has logged off
+11:45:48: [Azawrath] has logged on
+11:45:48: [7. fewls]: [Azawrath] joined the channel
+11:45:52: You gained 1257 XP (419 Rested XP) (419 Group Bonus XP)
+11:45:52: [4. Level 1-9][Gornal]: Struggling in the raid? Wanna to be the hero?come to the <www.EGRICH.com>
+11:46:46: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:46:47: Invalid target
+11:46:53: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:46:54: Target is already dead
+11:46:58: You gained 942 XP (314 Rested XP) (314 Group Bonus XP)
+11:47:00: You received: 23 silver
+11:47:02: [Rastan] has looted [Stormlady's Insignia]!
+11:47:04: You are too far away
+11:47:38: You gained 978 XP (140 Rested XP) (419 Group Bonus XP)
+11:47:41: You received: [Legendary Scroll of Intelligence]
+11:47:41: You received: [Roc Egg]
+11:47:51: [Jehira] has looted [Stormlady's Insignia]!
+11:47:51: [Jehira] has looted [Exquisite Cloth]!
+11:47:52: [4. Level 1-9][Wrenn]: I wanna be a hero!
+11:47:54: [5. Level 40-49][Elandrik]: anyone doing ogre group quest in droughtlands?
+11:48:44: You gained 628 XP (314 Group Bonus XP)
+11:48:52: Ability is blocked
+11:48:52: Ability is blocked
+11:48:52: Ability is blocked
+11:48:52: Ability is blocked
+11:48:53: Ability is blocked
+11:48:54: You gained 628 XP (314 Group Bonus XP)
+11:48:56: You gained 628 XP (314 Group Bonus XP)
+11:48:56: You gained 628 XP (314 Group Bonus XP)
+11:48:58: You received: 23 silver
+11:48:58: You received: 23 silver
+11:48:58: You received: 29 silver
+11:48:58: You received: 33 silver
+11:48:59: You are too far away
+11:49:05: [Kaleida] has looted [Spellspun Silk]!
+11:49:34: You gained 838 XP (419 Group Bonus XP)
+11:49:37: [Melthia] has looted [Spellspun Silk]!
+11:49:45: [Jehira] has looted [Huge Polished Talon]!
+11:50:10: [Party][Kaleida]: ignore the quest, it's bugged
+11:50:21: [Party][Kaleida]: move out of the green puddles. 
+11:50:45: [Party][Kaleida]: easier to move to the boss
+11:51:12: You are too far away
+11:51:14: Ryka Dharvos: The Storm Legion will have the Charmer's Coil. You will be our puppet!
+11:51:40: [Psion] has logged on
+11:51:44: [Guild]: Aetheldine earned achievement: [Freemarch Warden]
+11:52:12: Invalid target
+11:52:22: Can only be used as a reaction
+11:52:36: You gained 1676 XP (838 Group Bonus XP)
+11:52:36: Ryka Dharvos: The strings are cut...
+11:52:38: Target is already dead
+11:52:38: Target is already dead
+11:52:47: You received: 23 gold 43 silver
+11:52:51: [Melthia] has selected Greed for [Dharvos's Gauntlets]
+11:52:51: [Kaleida] has selected Greed for [Dharvos's Gauntlets]
+11:52:52: [Jehira] has selected Greed for [Dharvos's Gauntlets]
+11:52:58: [Demyte] has selected Need for [Dharvos's Gauntlets]
+11:53:05: [Rastan] has selected Need for [Dharvos's Gauntlets]
+11:53:05: [Demyte] Need rolled: 78 for [Dharvos's Gauntlets]
+11:53:05: [Rastan] Need rolled: 30 for [Dharvos's Gauntlets]
+11:53:05: [Demyte] has won [Dharvos's Gauntlets] with a Need roll of 78
+11:53:05: You received: [Dharvos's Gauntlets]
+11:53:06: [Jehira] has looted [Twilight Bloom Roots] x 2!
+11:53:09: [Guild]: Jaenell earned achievement: [Freemarch Warden]
+11:53:41: [Party][Kaleida]: shit of a fight
+11:53:55: [Party][Demyte]: were fucked
+11:53:59: [Party][Kaleida]: \o/
+11:54:11: [Party][Kaleida]: single target them down
+11:54:59: [Burley] has logged off
+11:55:18: [Party][Kaleida]: so if you're glowing, move away
+11:55:55: [Party][Kaleida]: you can't avoid atleast one rotation of her phases. 
+11:55:57: [Drahn] has logged off
+11:56:02: [Party][Demyte]: k
+11:56:07: [Party][Kaleida]: there's blahblah, so lets moveup
+11:56:13: Jultharin: We have been at this for hours, Caelia. None of these humans possess the ancestral memory we seek.
+11:56:20: Caelia the Stormtouched: Then your mages brought me the wrong ones! I gave specific instructions on which villages to focus your abductions.
+11:56:27: Jultharin: The descendants of Eth litter this dusty waste. The bloodline of the mage-priests is thin. There is no way to ensure we'll find the ones we seek, or even if the ones sought still hold ancestral memories we need.
+11:56:43: *[Kaleida] flexes.*
+11:56:43: Caelia the Stormtouched: Crucia will not accept excuses. Bring me more minds, Jultharin. If need be, I will rend the memories of every soul in Shimmersand to find the secret of the Caldera. 
+11:56:57: Caelia the Stormtouched: What a strong mind you have! If I cannot have it, your death will suffice.
+11:57:53: You must be facing your target!
+11:58:03: Target is already dead
+11:58:32: [Arthia] has logged off
+11:58:48: Not enough attack points
+11:58:58: [Guild][Azawrath]: [Runecrafter's Plaque] \o/
+11:59:05: [Guild][Lisani]: \o/
+11:59:12: [Guild][Trixi]: wuwu !
+11:59:56: Caelia the Stormtouched: Cruica! Forgive me. I have failed you...
+11:59:56: You gained 1676 XP (838 Group Bonus XP)
+11:59:56: Quest Completed: Charmer's Caldera
+11:59:56: You have achieved a new level of notoriety with Dragonslayer Covenant! Members of the faction now consider you Friendly.
+11:59:56: Demyte earned achievement: [Charmer's Caldera]
+11:59:56: [Guild]: Demyte earned achievement: [Charmer's Caldera]
+11:59:56: Jehira earned achievement: [Charmer's Caldera]
+11:59:56: [Guild]: Jehira earned achievement: [Charmer's Caldera]
+11:59:56: Rastan earned achievement: [Charmer's Caldera]
+11:59:56: [Guild]: Rastan earned achievement: [Charmer's Caldera]
+11:59:57: Invalid target
+12:00:06: [7. fewls][Raed]: nice one :)
+12:00:10: [Jehira] has looted [Caldera Mail]!
+12:00:21: [Guild][Lluolinn]: grats
+12:00:22: You received: [Caldera Breastplate]
+12:00:22: You gained 9900 XP
+12:00:26: You received: 21 gold 76 silver
+12:00:26: You received: [Dull Storm Signet]
+12:00:30: [Melthia] has selected Greed for [Stormetched Blade]
+12:00:30: [Jehira] has selected Greed for [Stormetched Blade]
+12:00:32: [Rastan] has selected Greed for [Stormetched Blade]
+12:00:32: [Demyte] has selected Greed for [Stormtouched Mantle]
+12:00:34: [Melthia] has selected Greed for [Stormtouched Mantle]
+12:00:34: [Jehira] has selected Greed for [Stormtouched Mantle]
+12:00:34: [Kaleida] has selected Greed for [Stormetched Blade]
+12:00:37: [Roskam] has logged on
+12:00:38: [Kaleida] has selected Greed for [Stormtouched Mantle]
+12:00:42: [Demyte] has selected Greed for [Stormetched Blade]
+12:00:42: [Demyte] Greed rolled: 44 for [Stormetched Blade]
+12:00:42: [Melthia] Greed rolled: 42 for [Stormetched Blade]
+12:00:42: [Jehira] Greed rolled: 64 for [Stormetched Blade]
+12:00:42: [Rastan] Greed rolled: 80 for [Stormetched Blade]
+12:00:42: [Kaleida] Greed rolled: 92 for [Stormetched Blade]
+12:00:42: [Kaleida] has won [Stormetched Blade] with a Greed roll of 92
+12:00:42: [Kaleida] has looted [Stormetched Blade]!
+12:00:45: [Rastan] has selected Greed for [Stormtouched Mantle]
+12:00:45: [Demyte] Greed rolled: 29 for [Stormtouched Mantle]
+12:00:45: [Melthia] Greed rolled: 63 for [Stormtouched Mantle]
+12:00:45: [Jehira] Greed rolled: 13 for [Stormtouched Mantle]
+12:00:45: [Rastan] Greed rolled: 34 for [Stormtouched Mantle]
+12:00:45: [Kaleida] Greed rolled: 36 for [Stormtouched Mantle]
+12:00:45: [Melthia] has won [Stormtouched Mantle] with a Greed roll of 63
+12:00:45: [Melthia] has looted [Stormtouched Mantle]!
+12:00:48: [Jehira] has looted [Shadethorn Log] x 3!
+12:01:08: [Rastan] has looted [Caldera Breastplate]!
+12:01:18: [Party][Kaleida]: should work on everything. pve anyhow
+12:01:22: Successfully saved equipment set
+12:01:23: Successfully saved equipment set
+12:01:44: [Guild][Roskam]: hey all.
+12:01:53: [Guild][Demyte]: hi
+12:02:01: [Party][Kaleida]: new weapon time now
+12:02:05: [Immortalis] whispers: man how can i make a assist macro?
+12:02:12: To [Immortalis]: type in /macro
+12:02:13: [Guild][Tyranny]: Herro ;)
+12:02:15: [Immortalis] whispers: i typed /%T assist didnt work..
+12:02:19: [Guild][Melthia]: \o
+12:02:22: To [Immortalis]: in there - goto a spare slot and give it a name and an icon
+12:02:30: To [Immortalis]: in the macro put
+12:02:37: To [Immortalis]: assist name
+12:02:37: You must have a target selected!
+12:02:37: [Immortalis] whispers: ok name is Assist in commands i put assist %T
+12:02:45: [Party][Kaleida]: I took the staff on this, over the maul. 
+12:02:46: To [Immortalis]: na use the actual name
+12:03:02: To [Immortalis]: %T wont work cos that will just give u your current target
+12:03:04: [Raptess] has logged on
+12:03:05: [Rastan] has looted [Spark Mace]!
+12:03:09: [Immortalis] whispers: ahh thanks man
+12:03:31: You received: [Smouldering Blade]
+12:03:31: You gained 4950 XP
+12:03:31: Quest Completed: All That Glitters
+12:03:34: To [Immortalis]: np
+12:03:43: [Party][Jehira]: i like the look of a hammer though :)
+12:03:43: [Guild][Raptess]: howdy folks
+12:03:44: [Immortalis] whispers: mm not working lol
+12:03:51: [Party][Kaleida]: take the hammer then :p
+12:04:01: To [Immortalis]: it should just say
+12:04:03: [Party][Kaleida]: I took a few minutes deciding tbh. 
+12:04:04: To [Immortalis]: assist demyte
+12:04:07: Invalid target
+12:04:07: Invalid target
+12:04:11: [Party][Jehira]: yeah i am too =p
+12:04:12: To [Immortalis]: then put it on your hot bar
+12:04:21: [Party][Kaleida]: don't use either now anyhow, using
+12:04:22: To [Immortalis]: and click it
+12:04:24: [5. Level 40-49][Greystone]: DPS LFG RD
+12:04:26: [Party][Kaleida]: [Iceward Mace] [Tome of Ancient Summons] now
+12:04:28: [Immortalis] whispers: i did assist tradix not working
+12:04:36: [Jehira] has looted [Hissing Maul]!
+12:04:37: No results found.
+12:04:38: [Party][Kaleida]: I might go buy the summonable healer, see how it works. 
+12:04:40: [Guild]: Monzara earned achievement: [Level 30!]
+12:04:42: To [Immortalis]: there is no player called tradix
+12:04:45: [Guild][Melthia]: grats
+12:04:48: No results found.
+12:04:48: [Guild][Melthia]: and hi rap
+12:04:53: [Immortalis] whispers: tradik*
+12:04:56: [Guild][Rastan]: Woot Monz$$
+12:04:59: [1. Charmer's Caldera]: You left the channel
+12:04:59: [1. Shimmersand]: You joined the channel
+12:05:05: Tradik : Level 50 Warrior - Runic Descent
+12:05:06: [Guild][Monzara]: cha ching cheers
+12:05:13: [Guild][Demyte]: grats
+12:05:21: To [Immortalis]: the other option is when you have your tank targetted
+12:05:25: To [Immortalis]: you can hit F
+12:05:34: [Immortalis] whispers: ahh awsome :D
+12:05:37: [Immortalis] whispers: Thank u man ::)
+12:05:41: To [Immortalis]: but thats not as good for raids etc
+12:05:44: [Guild][Melthia]: *takes a deep breath*
+12:05:50: [Guild][Melthia]: [Gold Skull] [Letter to Patrick Thorntaun] [Badge of Honor]
+12:05:50: Charmer's Caldera has been reset.
+12:05:52: [Guild][Melthia]: [Holy Book] [War Material from Home]
+12:05:52: [Party][Kaleida]: I'm out
+12:05:54: [Guild][Melthia]: [Blade of Courage] [Prophecy of Calyx]
+12:05:55: [5. Level 40-49][Hyphy]: tank/dps lfg rd
+12:06:02: [Guild][Tyranny]: y y y ~
+12:06:08: [5. Level 40-49][Williamtell]: dps lf rd
+12:06:10: [Guild][Dariyn]: letter to patrik and war material
+12:06:12: [Guild][Demyte]: yyn
+12:06:15: [Guild][Dariyn]: would be <3
+12:06:20: [Guild][Demyte]: ny
+12:06:23: [Guild][Raptess]: y y n y y n y 
+12:06:24: [Guild][Demyte]: ny
+12:06:28: [Guild][Wrenn]: I need holy book
+12:06:58: Successfully saved equipment set
+12:07:13: Successfully saved equipment set
+12:07:44: [Guild][Melthia]: spread it all out, hope i didnt make a mistake
+12:08:00: [Guild][Melthia]: [Exquisite Cloth] anyone need one?
+12:08:03: Successfully saved equipment set
+12:08:22: [Guild][Dariyn]: GG
+12:08:29: Successfully saved equipment set
+12:09:55: [Party][Kaleida]: [Ascended Power: Summon Rescue Medic] and now I have 324 planarite left :)
+12:10:10: [Party][Kaleida]: yeah
+12:10:20: [Party][Kaleida]: it goes in your ascended powers thing now
+02:53:40: Noncombat logging enabled
+02:53:44: Combat logging enabled
+02:53:48: [Guild][Demyte]: Kal u there?
+02:53:53: [Guild][Kaleida]: \o
+02:53:59: [4. Level 1-9][Funayurei]: <Avoiding Reality> is recruiting. Newly formed guild focused on doing anything and everything we can to avoid reality! PST for invite.
+02:53:59: [Guild][Demyte]: can i borrow u for a test
+02:54:06: [Guild][Kaleida]: sure
+02:54:08: Invitation Sent to Kaleida
+02:54:09: [Guild][Kaleida]: where at?
+02:54:11: You have formed a party
+02:54:13: You've entered a raid group!
+02:54:13: You've entered a raid group!
+02:54:18: *[Kaestra] licks Caelien!*
+02:54:29: *[Kaestra] slaps Caelien in the face.*
+02:54:32: [5. Level 50][Caelien]: WTS [Incandescent Indomitable Runeshard] 6 plat. 7.5 plat on the AH
+02:54:33: [Guild][Demyte]: just want to see what gets logged to file for this shit  - for a parser for dkp if we go that way
+02:54:38: [Lisani] has logged on
+02:54:50: *[Shazzak] laughs at Jenelise.*
+02:54:57: *[Jenelise] laughs at Shazzak.*
+02:55:17: [Guild][Kaleida]: you need me somewhere so I actually parse something?
+02:55:24: [1. Meridian][Dracgon]: rogue dps lfg IT
+02:55:26: [Guild][Demyte]: na
+02:55:31: [Raid][Demyte]: will drop u and reinvite u
+02:55:31: [4. Level 1-9][Theermae]: R u looking for cheaper Platinum ? welcome to <<WWW.MMOP.COM>> amazing price  discount code:v v i p
+02:55:36: You've left the raid group!
+02:55:36: You've left the raid group!
+02:55:44: [4. Level 1-9][Theermae]: Oh dear need rift Platinum ? old brand provide the cheapest,fastest gold for you <<<WWW.G4PRIFT.COM>>>. Discount code:v v i p
+02:55:45: [1. Meridian][Dracgon]: hey rustyspade where the hell are you fool
+02:55:47: Invitation Sent to Kaleida
+02:55:48: You have formed a party
+02:55:50: You've entered a raid group!
+02:55:50: You've entered a raid group!
+02:55:54: [1. Meridian][Rinks]: bard/dps lfg IT
+02:55:57: Invitation Sent to Lisani
+02:55:59: [4. Level 1-9][Dsadewfwe]: R u looking for cheaper Platinum ? welcome to <<WWW.MMOP.COM>> amazing price  discount code:v v i p
+02:56:11: [4. Level 1-9][Dsadewfwe]: Oh dear need rift Platinum ? old brand provide the cheapest,fastest gold for you <<<WWW.G4PRIFT.COM>>>. Discount code:v v i p
+02:56:27: [Lisani] has joined the raid
+02:56:31: [Guild][Demyte]: need a 3rd person :)
+02:56:32: *[Shazzak] winks flirtatiously at Jenelise.*
+02:56:37: [Guild][Demyte]: thx lis
+02:56:40: [Guild][Lisani]: lol for what ?
+02:56:42: [Guild][Demyte]: just testing something
+02:56:50: [Kaleida] has left the raid
+02:56:51: [Guild][Lisani]: bloody n inja invites when you log on !
+02:56:54: Invitation Sent to Kaleida
+02:56:56: [Kaleida] has joined the raid
+02:56:59: [Guild][Lisani]: hehe cool
+02:57:08: [1. Meridian][Dracgon]: rogue dps lfg IT
+02:57:14: [Guild][Demyte]: ok cool - the log picks up joins and leaves
+02:57:23: Unknown command: whoraid (try '/help')
+02:57:31: [Guild][Demyte]: now if only there was a whoraid command
+02:57:33: [Guild][Lisani]: he is honing in raid leader powers
+02:57:51: *[Jrandom] waves to Shazzak.*
+02:57:55: Available commands:
+02:57:55:  abilitybar, agree, alias, angry, announce, apologize, attack,
+02:57:55:  attention, beckon, beg, bindmacrofile, bite, bleed, blush,
+02:57:55:  boggle, bonk, bored, bounce, bow, burp, bye, cancelbuff,
+02:57:55:  cast, charge, chat, cheer, chicken, clap, clearallmarks,
+02:57:55:  clearfocus, clearmark, combatlog, confused, consolemsg,
+02:57:55:  cower, cringe, cry, curtsey, dance, demote, disagree,
+02:57:55:  dismount, drool, dungeoninfo, emote, equip, equipslot,
+02:57:55:  eyebrow, f, facepalm, fail, filter, flex, flirt, focus,
+02:57:55:  follow, friend, friendslist, frown, g, gasp, getfocus,
+02:57:55:  giggle, gleave, gquit, greet, grin, grovel, gu, guild, happy,
+02:57:55:  hello, help, hug, i, ignore, inspect, invite, join, kick,
+02:57:55:  kiss, kneel, laugh, laydown, leader, leave, lfg, lick, loc,
+02:57:55:  log, lol, macro, macrowait, mark, motd, mourn, no, nod, off,
+02:57:55:  officer, openfire, p, party, partyleave, petaggressive,
+02:57:55:  petattack, petcast, petdefensive, petfollow, petname,
+02:57:55:  petpassive, petstay, played, point, poke, ponder, pout, pray,
+02:57:55:  promote, pvp, question, raid, raid_create, raid_disband,
+02:57:55:  rand, readycheck, reloadui, reply, resetinstances,
+02:57:55:  returntorespawn, rofl, role, rude, rw, s, sad, salute,
+02:57:55:  saveequip, say, scowl, setmasterlooter, shiver, shout, shrug,
+02:57:55:  silly, sit, slap, sleep, smile, smirk, snarl, snicker, sniff,
+02:57:55:  startattack, startrangedattack, stopattack, stopcasting,
+02:57:55:  strut, suppressmacrofailures, swagger, t, talk, tap, tar,
+02:57:55:  target, targetexact, targetlasttarget, tease, tell, terrible,
+02:57:55:  thank, threaten, trade, tweet, tweetpic, use, version, veto,
+02:57:55:  w, wait, wave, welcome, whisper, whistle, wink, wonder, yawn,
+02:57:55:  yell, yes
+02:57:56: *[Jrandom] waves to Norad.*
+02:58:12: [5. Level 50][Caelien]: Crafting [Runecrafter: Feral Rune] [Feral Rune]. Your mats+tip. 100% Proc. Selling [Incandescent Indomitable Runeshard] 6 plat.
+02:58:14: Sevensodd earned achievement: [Grim Survivor]
+02:58:16: [1. Meridian][Dracgon]: lf guild to join
+02:58:18: [Guild][Lisani]: weird that there isn't Dem
+02:58:25: [Guild][Kaleida]: let me drop, just to make sure it pickes up me leaving, not just you kicking me. 
+02:58:26: [Evangel] says: would you get off the banker plz
+02:58:27: [4. Level 1-9][Theermae]: R u looking for cheaper Platinum ? welcome to <<WWW.MMOP.COM>> amazing price  discount code:v v i p
+02:58:32: [Guild][Demyte]: only game i ever saw it in was EQ2
+02:58:36: [Guild][Demyte]: ok
+02:58:38: [Kaleida] has left the raid
+02:58:39: [4. Level 1-9][Theermae]: Oh dear need rift Platinum ? old brand provide the cheapest,fastest gold for you <<<WWW.G4PRIFT.COM>>>. Discount code:v v i p
+02:58:46: [Guild][Demyte]: yep it got it
+02:58:51: [Guild][Kaleida]: cool
+02:58:54: [4. Level 1-9][Dsadewfwe]: R u looking for cheaper Platinum ? welcome to <<WWW.MMOP.COM>> amazing price  discount code:v v i p
+02:59:03: [4. Level 1-9][Funayurei]: <Avoiding Reality> is recruiting. Newly formed guild focused on doing anything and everything we can to avoid reality! PST for invite.
+02:59:11: [Guild][Demyte]: logs in server time tho :"((
+02:59:20: [Guild][Kaleida]: damnit, no more ninja leaving hten -_-
+02:59:33: [Guild][Demyte]: oh no it doesnt - it logs in some wierd time
+02:59:46: [Guild][Demyte]: GMT io think
+02:59:59: Invitation Sent to Kaleida
+03:00:00: [Kaleida] has joined the raid
+03:00:14: [Guild][Lisani]: GMT on a us server ? 
+03:00:17: Grudgen earned achievement: [Grim Survivor]
+03:00:23: [Guild][Kaleida]: yeah, looks gmt'ish
+03:00:33: [Guild][Demyte]: it is still not right for gmt
+03:00:36: Brandalyn earned achievement: [Grim Survivor]
+03:00:39: [1. Meridian][Caelien]: Crafting [Runecrafter: Feral Rune] [Feral Rune]. Your mats+tip. 100% Proc. Selling [Incandescent Indomitable Runeshard] 6 plat.
+03:00:40: [Guild][Demyte]: they are 9hrs atm
+03:00:42: [5. Level 50][Caelien]: Crafting [Runecrafter: Feral Rune] [Feral Rune]. Your mats+tip. 100% Proc. Selling [Incandescent Indomitable Runeshard] 6 plat.
+03:00:48: [5. Level 50][Fous]: Guild "Zephyr" Level 7 Guild, Is Now Recruiting For GreenScale, Raid Rifts T1 And T2, Pm Me For More Information. (Rogue DPS Full ) ( Est Based Guild, Vent is Required )
+03:00:48: [Guild][Demyte]: boggle what time that is
+03:00:55: [Guild][Kaleida]: it's 3:02 UTC now
+03:01:01: [Guild][Kaleida]: nono, GMT never changes
+03:01:01: [Guild][Demyte]: there u go utc
+03:01:02: [5. Level 50][Spongebob]: LFM for [The Saga of the Endless: Darkblade] PST (Abberant Growth)
+03:01:09: [Guild][Kaleida]: you're thinking of BST.  summer time. 
+03:01:13: [Guild][Demyte]: arr
+03:01:18: [Guild][Kaleida]: GMT and UTC don't change. 
+03:01:22: [4. Level 1-9][Theermae]: R u looking for cheaper Platinum ? welcome to <<WWW.MMOP.COM>> amazing price  discount code:v v i p
+03:01:23: [Guild][Demyte]: cant find a way of gettting a raid list
+03:01:34: [4. Level 1-9][Theermae]: Oh dear need rift Platinum ? old brand provide the cheapest,fastest gold for you <<<WWW.G4PRIFT.COM>>>. Discount code:v v i p
+03:01:50: [Guild][Kaleida]: <- added UTC and pacific time to the win7 clock. 
+03:02:04: [Guild][Kaleida]: 'cause i got sick of looking it up :D
+03:02:35: Unknown command: raidlist (try '/help')
+03:02:40: Available commands:
+03:02:40:  abilitybar, agree, alias, angry, announce, apologize, attack,
+03:02:40:  attention, beckon, beg, bindmacrofile, bite, bleed, blush,
+03:02:40:  boggle, bonk, bored, bounce, bow, burp, bye, cancelbuff,
+03:02:40:  cast, charge, chat, cheer, chicken, clap, clearallmarks,
+03:02:40:  clearfocus, clearmark, combatlog, confused, consolemsg,
+03:02:40:  cower, cringe, cry, curtsey, dance, demote, disagree,
+03:02:40:  dismount, drool, dungeoninfo, emote, equip, equipslot,
+03:02:40:  eyebrow, f, facepalm, fail, filter, flex, flirt, focus,
+03:02:40:  follow, friend, friendslist, frown, g, gasp, getfocus,
+03:02:40:  giggle, gleave, gquit, greet, grin, grovel, gu, guild, happy,
+03:02:40:  hello, help, hug, i, ignore, inspect, invite, join, kick,
+03:02:40:  kiss, kneel, laugh, laydown, leader, leave, lfg, lick, loc,
+03:02:40:  log, lol, macro, macrowait, mark, motd, mourn, no, nod, off,
+03:02:40:  officer, openfire, p, party, partyleave, petaggressive,
+03:02:40:  petattack, petcast, petdefensive, petfollow, petname,
+03:02:40:  petpassive, petstay, played, point, poke, ponder, pout, pray,
+03:02:40:  promote, pvp, question, raid, raid_create, raid_disband,
+03:02:40:  rand, readycheck, reloadui, reply, resetinstances,
+03:02:40:  returntorespawn, rofl, role, rude, rw, s, sad, salute,
+03:02:40:  saveequip, say, scowl, setmasterlooter, shiver, shout, shrug,
+03:02:40:  silly, sit, slap, sleep, smile, smirk, snarl, snicker, sniff,
+03:02:40:  startattack, startrangedattack, stopattack, stopcasting,
+03:02:40:  strut, suppressmacrofailures, swagger, t, talk, tap, tar,
+03:02:40:  target, targetexact, targetlasttarget, tease, tell, terrible,
+03:02:40:  thank, threaten, trade, tweet, tweetpic, use, version, veto,
+03:02:40:  w, wait, wave, welcome, whisper, whistle, wink, wonder, yawn,
+03:02:40:  yell, yes
+03:02:47: Unknown command: raid_list (try '/help')
+03:02:53: Unknown command: raid_who (try '/help')
+03:02:59: Unknown command: who-raid (try '/help')
+03:03:04: [5. Level 50][Spongebob]: LFM for [The Saga of the Endless: Darkblade] PST (Abberant Grwoth)
+03:03:28: Must be the group leader to form a raid!
+03:03:55: Unknown command: list (try '/help')
+03:04:09: Unknown command: raidlist (try '/help')
+03:04:21: [5. Level 50][Kawatora]: Looking for a rogue and another for LH Expert
+03:04:57: You've left the raid group!
+03:04:57: You've left the raid group!
+03:05:07: [Guild][Demyte]: thx guys
+03:05:11: [Guild][Demyte]: byby
+05:32:34: Noncombat logging enabled
+05:32:35: The faint scent of the sea settles upon Iron Pine Peak.
+05:32:44: [5. Level 50][Diashame]: Need more for Mathios REp raid Grind PST
+05:32:53: [Guild][Roskam]: now that dem has logged on can we do an expert?
+05:33:01: [Guild][Sari]: omg yes
+05:33:05: [Guild][Demyte]: not here - just checking somethjing
+05:33:11: [Guild][Sari]: booo
+05:33:17: [Guild][Melodius]: Dem logged on? I don't see him
+05:33:20: [Guild][Roskam]: grrr
+05:33:25: [Guild][Melodius]: He's invizabbllllll
+05:33:35: [5. Level 50][Tama]: Bard/Rdps LFG T1 (locked to KB)
+05:34:10: [5. Level 50][Ctenaala]: LF3M IT expert 2dps and 1 healer
+05:34:17: [Guild][Roskam]: np i keep spending all my coin anyway paying for the damn dps spec training i will only use till get some tanking gear. grrrr
+05:35:16: [Guild][Demyte]: hmm /who results dont go to the log :((
+05:35:24: Available commands:
+05:35:24:  abilitybar, agree, alias, angry, announce, apologize, attack,
+05:35:24:  attention, beckon, beg, bindmacrofile, bite, bleed, blush,
+05:35:24:  boggle, bonk, bored, bounce, bow, burp, bye, cancelbuff,
+05:35:24:  cast, charge, chat, cheer, chicken, clap, clearallmarks,
+05:35:24:  clearfocus, clearmark, combatlog, confused, consolemsg,
+05:35:24:  cower, cringe, cry, curtsey, dance, demote, disagree,
+05:35:24:  dismount, drool, dungeoninfo, emote, equip, equipslot,
+05:35:24:  eyebrow, f, facepalm, fail, filter, flex, flirt, focus,
+05:35:24:  follow, friend, friendslist, frown, g, gasp, getfocus,
+05:35:24:  giggle, gleave, gquit, greet, grin, grovel, gu, guild, happy,
+05:35:24:  hello, help, hug, i, ignore, inspect, invite, join, kick,
+05:35:24:  kiss, kneel, laugh, laydown, leader, leave, lfg, lick, loc,
+05:35:24:  log, lol, macro, macrowait, mark, motd, mourn, no, nod, off,
+05:35:24:  officer, openfire, p, party, partyleave, petaggressive,
+05:35:24:  petattack, petcast, petdefensive, petfollow, petname,
+05:35:24:  petpassive, petstay, played, point, poke, ponder, pout, pray,
+05:35:24:  promote, pvp, question, raid, raid_create, raid_disband,
+05:35:24:  rand, readycheck, reloadui, reply, resetinstances,
+05:35:24:  returntorespawn, rofl, role, rude, rw, s, sad, salute,
+05:35:24:  saveequip, say, scowl, setmasterlooter, shiver, shout, shrug,
+05:35:24:  silly, sit, slap, sleep, smile, smirk, snarl, snicker, sniff,
+05:35:24:  startattack, startrangedattack, stopattack, stopcasting,
+05:35:24:  strut, suppressmacrofailures, swagger, t, talk, tap, tar,
+05:35:24:  target, targetexact, targetlasttarget, tease, tell, terrible,
+05:35:24:  thank, threaten, trade, tweet, tweetpic, use, version, veto,
+05:35:24:  w, wait, wave, welcome, whisper, whistle, wink, wonder, yawn,
+05:35:24:  yell, yes
+05:35:24: Militiaman Strent: The Icewatch Beacon has been lit! Undead forces approach the Icewatch Outpost! 
+05:35:36: External version: 1.0.0
+05:35:36: Internal version: 29-42b (stable@403500)
+05:35:36: Built: Apr 15 2011 15:34:28 RWC-BUILD4
+05:35:56: Unknown command: wholog (try '/help')
+05:36:08: [Guild][Sari]: mel, what chest and shoulder enchants can you make?
+05:37:17: Unknown command: console (try '/help')
+05:37:28: [Drahn] has logged on
+05:37:37: Usage: /bindmacrofile <key> <macrofile>
+05:37:57: Usage: /alias <alias> <command> <args,...>
+05:37:57: [Jipheal] has logged on
+05:38:09: The Plane of Water pours through the rifts, spilling invaders upon Iron Pine Peak!
+05:38:13: Geygesh hails his minions, "Wash out the Ascended! Cleanse away the filth!"
+05:38:15: Alias: '/who "auroranoctum"' as '/blah'
+05:38:19: Defender Eathrin shouts, "Invaders are headed to the gates to the Chancel of Labors!"
+05:38:19: No results found.
+05:38:20: [Jipheal] has logged off
+05:38:22: Sentinel Kashara shouts, "Help!  We have invaders headed to Radiant Guard!"
+05:38:28: Defender Lathana shouts, "The invaders are headed to the Whitefall Town Square!"
+05:38:34: Alias: '/who "aurora noctum"' as '/blah'
+05:38:36: [Jippo] has logged on
+05:38:45: [4. Level 1-9][Xion]: Can a level 35 do Kings Breach?
+05:38:51: [4. Level 1-9][Xion]: <healer
+05:38:51: [4. Level 1-9][Revenance]: yes
+05:39:00: [4. Level 1-9][Xion]: awwwk :D
+05:39:20: [Guild][Roskam]: gotta log kid awake. grrr
+05:39:44: [Roskam] has logged off
+05:40:01: [4. Level 1-9][Borzol]: [This message has been flagged as spam, click to expand]
+05:40:05: Unknown command: raidwho (try '/help')
+05:40:27: [Jippo] has logged off
+05:41:04: [5. Level 50][Sleet]: Mage LF RD group?
+05:41:09: [5. Level 50][Sleet]: er.. no question after
+05:42:40: [4. Level 1-9][Cryphua]: 1 0 0 P only cost $3 8.0 0 now,w w w.f l y 4 g o l d.c o m,release ur order,further info**jiangwugou@msn.com!
+05:42:42: [4. Level 1-9][Cryphua]: 1 0 0 P only cost $3 8.0 0 now,w w w.f l y 4 g o l d.c o m,release ur order,further info**jiangwugou@msn.com!
+05:43:47: [5. Level 50][Llaelyn]: Anyone having issues with their rez being "Invalid Ability"?
+05:44:17: [5. Level 50][Dailan]: I have not
+05:44:23: [5. Level 50][Sleet]: Mage LF RD pst
+05:44:23: [5. Level 50][Shahira]: only when I press my "I win " button
+05:44:29: [5. Level 50][Pope]: lol
+05:44:35: [5. Level 50][Fetish]: did you change your spec maybe or something
+05:44:48: [Psion] has logged off
+05:45:14: You are now AFK (Away From Keyboard)
+05:45:14: You will be automatically logged out in 15 minutes if you remain AFK
+05:45:15: [5. Level 50][Aset]: Bard LF most Instances
+05:46:03: [Guild][Ariah]: sweet now i have the mats for the ring.just need someone to make it
+05:46:13: [Guild][Ariah]: who was it again mel?
+05:46:19: Sentinel Kashara shouts, "Help!  We have invaders headed to Radiant Guard!"
+05:46:21: [Guild][Melodius]: Zeherah
+05:46:26: Radiant Guard is about to fall!
+05:46:47: [5. Level 50][Fetish]: lfm peeps for pvp 
+05:47:58: [Guild][Sari]: seriously what are the armoured rhino mounts. i fucking want one
+05:48:27: [Guild][Fourteen]: the giant sloth/bear looking things?
+05:48:33: [Guild][Sari]: yes
+05:48:37: [Guild][Fourteen]: IPP
+05:48:52: [Guild][Fourteen]: mount vendor near the library
+05:48:59: [Guild][Sari]: yarnosaurs? they dont look like the ones at chancel
+05:49:06: The Riptide invaders have been stopped!
+05:49:14: [Guild][Sari]: this one is fully armoured
+05:49:14: [Guild][Fourteen]: that's because they "epic'd" them up
+05:49:19: [Guild][Sari]: oh
+05:49:29: [Guild][Fourteen]: but havn't replaced the normal looking ones at the vendor yet. 
+05:49:37: [Guild][Sari]: sweet im almost glorified with icewatch
+05:49:52: [Guild][Sari]: thats where i been getting confused
+05:50:09: [Guild][Fourteen]: you end up buying them blind I think, since you get no preview to see what it looks like before you buy. 
+05:50:22: Radiant Guard is about to fall!
+05:50:23: [Guild][Sari]: lol 100pp lottery
+05:50:35: [Guild][Fourteen]: well it'll be big.. and covered in armour. 
+05:50:51: One Wardstone has fallen!
+05:51:20: [5. Level 50][Hydrox]: Dps LFG T1 Experts
+05:52:21: [Guild][Sari]: anyone need normal RD? i need it for epic quest
+05:52:27: [Guild][Melodius]: i do
+05:53:00: [Guild][Sari]: anyone else with high 30's alts that wanna come?
+05:53:03: [Guild][Sari]: low 40's
+05:53:11: [Guild][Sari]: bored 50's
+05:53:45: [Guild][Fourteen]: I guess I could help with a speedrun
+05:54:05: [Guild][Fourteen]: as soon as I get my underleveled ass out of these crypts
+05:54:14: [Guild][Sari]: lol kk thx
+05:54:18: [Guild][Melodius]: ah that's where you're at
+05:54:25: [Guild][Melodius]: you almost caught up to my warwar
+05:54:29: [5. Level 50][Exxy]: Riddle : Who has 2 Legs but cant walk, 2 eyes but cant see ?
+05:54:42: [5. Level 50][Daswood]: Your mom
+05:54:53: [Guild][Fourteen]: dosn't help that it's all 3 levels higher than I am. 
+05:55:01: [5. Level 50][Drelin]: win
+05:55:09: [5. Level 50][Douglas]: a blind paraplegic
+05:55:09: You are no longer AFK (Away From Keyboard)
+05:55:11: [5. Level 50][Exxy]: Think about it :)
