@@ -1,23 +1,16 @@
 using System;
+using System.Text.RegularExpressions;
 
 namespace RiftLogParser
 {
 	public class LogEntry
 	{
-		private string _lootChannel;
-		// KNOWN LOG ENTRIES TO DETECT
-		//	You've left the raid group!
-		//	You've entered a raid group!
-		//	[Player] has joined the raid
-		//	[Player] has left the raid
-		//	[Player] has looted [Item]!
-		//	You received: [Item]
-
-		public string Entry { get; private set;}
+		private readonly string _lootChannel;
+		public string Entry { get; private set; }
 		public DateTime EventTime { get; private set; }
-		public string EventText { get; private set; }		
+		public string EventText { get; private set; }
 		public EventType Type { get; private set; }
-		
+
 		public LogEntry(string entry)
 		{
 			Entry = entry;
@@ -61,23 +54,13 @@ namespace RiftLogParser
 
 			if (EventText.Contains(_lootChannel))
 			{
-				Type = EventType.Loot;
+				// Will not match anything but in the format
+				// [blah] - [blah] - ###
+				if (Regex.Match(EventText, @"[^\]:]\[.*?\] - \[.*?\] - \d*").Success)
+				{
+					Type = EventType.Loot;
+				}
 			}
 		}
-
-//		public string ParsedResult()
-//		{
-//			var description = "";
-//			description += Type + "\t\t";
-//			description += EventTime.TimeOfDay + "\t";
-//
-//			if (!string.IsNullOrEmpty(Actor.Name))
-//				description += Actor.Name + "\t";
-//
-//			if (!string.IsNullOrEmpty(Item.Name))
-//				description += Item.Name + "\t";
-//
-//			return description;
-//		}
 	}
 }

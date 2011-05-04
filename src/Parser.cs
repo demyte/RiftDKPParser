@@ -11,26 +11,25 @@ namespace RiftLogParser
 	{
 		private FileStream _logFile;
 		private FileStream _raidFile;
-		private DateTime _raidStartTime;
-		private DateTime _raidEndTime;
-		private readonly List<LogEntry> entries = new List<LogEntry>();
+		private readonly fmParser _parentForm;
+		public List<LogEntry> entries = new List<LogEntry>();
 		public BindingList<RaidMember> Members = new BindingList<RaidMember>();
 		public BindingList<LootItem> LootItems = new BindingList<LootItem>();
-		private readonly fmParser _parentForm;
+		public Raid _raid;
 
 		public Parser(fmParser mainForm)
 		{
-			_parentForm = mainForm;			
+			_parentForm = mainForm;
 		}
 
 		public void Parse()
 		{
-
 			_logFile = File.OpenRead(_parentForm.txtLogfile.Text);
 			_raidFile = File.OpenRead(_parentForm.txtDumpFile.Text);
-			_raidStartTime = DateTime.Parse(_parentForm.dtStart.Text);
-			_raidEndTime = DateTime.Parse(_parentForm.dtEnd.Text);
-			_parentForm.dataLoot.DataSource = LootItems;
+			_raid = new Raid(_parentForm.txtRaidName.Text,
+							DateTime.Parse(String.Format("{0} {1}", _parentForm.dtRaidDate.Text, _parentForm.dtStart.Text)),
+							DateTime.Parse(String.Format("{0} {1}", _parentForm.dtRaidDate.Text, _parentForm.dtStart.Text)),
+							DateTime.Parse(String.Format("{0} {1}", _parentForm.dtRaidDate.Text, _parentForm.dtEnd.Text)));
 
 			// Get all the members found in the raid.xml
 			ParseMembersFromRaidXML();
@@ -62,20 +61,21 @@ namespace RiftLogParser
 						ParseLeaveInformation(entry);
 						break;
 				}
-				
-				entries.Add(entry);				
+
+				entries.Add(entry);
 			}
 
 			_logFile.Close();
 			_raidFile.Close();
 
 			CalculateRaidDurationForMembers();
+
 		}
 
 		private bool EntryIsValid(LogEntry entry)
 		{
-			var startTimeOk = entry.EventTime.Ticks > _raidStartTime.Ticks;
-			var endTimeOk = entry.EventTime.Ticks < _raidEndTime.Ticks;
+			var startTimeOk = entry.EventTime.Ticks > _raid.StartTime.Ticks;
+			var endTimeOk = entry.EventTime.Ticks < _raid.EndTime.Ticks;
 			var IsDuplicate = (entries.Exists(e => e.Entry == entry.Entry));
 			var IsValid = entry.Type != EventType.Invalid;
 
@@ -89,7 +89,9 @@ namespace RiftLogParser
 			if (entry.Type == EventType.LeaveByLogger)
 			{
 				memberName = Settings.Get("LogUser");
-			} else {
+			}
+			else
+			{
 				var pos = entry.EventText.IndexOf("]");
 				memberName = entry.EventText.Substring(1, pos - 1);
 			}
@@ -126,18 +128,18 @@ namespace RiftLogParser
 		private RaidMember GetMember(string memberName)
 		{
 			return (from m in Members
-			        where m.Name == memberName
-			        select m).FirstOrDefault();
+					where m.Name == memberName
+					select m).FirstOrDefault();
 		}
 
 		private bool MemberExists(string memberName)
-		{		
-			 return GetMember(memberName) != null;
+		{
+			return GetMember(memberName) != null;
 		}
 
 		private void ParseLootInformation(LogEntry entry)
 		{
-			var lootItem = new LootItem(entry);	
+			var lootItem = new LootItem(entry);
 
 			if (lootItem.Name != null)
 				LootItems.Add(lootItem);
@@ -145,7 +147,7 @@ namespace RiftLogParser
 
 		private void CalculateRaidDurationForMembers()
 		{
-			Members.Each(m => m.CalculateDuration(_raidStartTime, _raidEndTime));
+			Members.Each(m => m.CalculateDuration(_raid.StartTime, _raid.EndTime));
 		}
 
 		private void ParseMembersFromRaidXML()
@@ -154,13 +156,13 @@ namespace RiftLogParser
 			var raidInfo = XElement.Parse(reader.ReadToEnd());
 
 			var raidMembers = raidInfo
-								.Descendants("Member")
-								.Select(m => new RaidMember(m.Descendants("Name").First().Value));
+				.Descendants("Member")
+				.Select(m => new RaidMember(m.Descendants("Name").First().Value));
 
 			foreach (var member in raidMembers.Where(member => !MemberExists(member.Name)))
 			{
 				Members.Add(member);
-			}				
+			}
 		}
 
 		public string GetRawEntries()
@@ -170,9 +172,10 @@ namespace RiftLogParser
 
 		public string GetUploadData()
 		{
+			var raidData = string.Format("{0},{1},{2},{3},{4}" + "\r\n", _raid.RaidName, _raid.RaidDate, _raid.StartTime, _raid.EndTime, _raid.Duration);
 			var memberData = Members.Aggregate("", (current, raidMember) => current + (raidMember.ShowExportData() + "\r\n"));
 			var lootData = LootItems.Aggregate("", (current, LootItem) => current + (LootItem.ShowExportData() + "\r\n"));
-			return "ATTENDANCE\r\n" + memberData + "\r\nLOOT\r\n" + lootData;
+			return "RAID\r\n" + raidData + "\r\nATTENDANCE\r\n" + memberData + "\r\nLOOT\r\n" + lootData;
 		}
 	}
 }

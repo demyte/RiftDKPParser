@@ -110,7 +110,7 @@ namespace RiftLogParser
 			Leaves.Sort();
 
 			
-			Duration = RaidDuration.Calculate(Joins, Leaves, AtStart, AtEnd);	
+			Duration = MemberRaidDuration.Calculate(Joins, Leaves, AtStart, AtEnd);	
 			}
 
 		private bool IsJoinLast()

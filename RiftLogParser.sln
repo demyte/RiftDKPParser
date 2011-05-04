@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiftLogParser", "RiftLogParser\RiftLogParser.csproj", "{8E9D570E-B8C3-4733-8F11-1649F4E2A72A}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{BC0432F0-8335-4A13-B029-0FA8DC989DDC}"
 	ProjectSection(SolutionItems) = preProject
 		Samples\guild.xml = Samples\guild.xml
 		Samples\Log.txt = Samples\Log.txt
 		Samples\raid.xml = Samples\raid.xml
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiftLogParser", "src\RiftLogParser.csproj", "{8E9D570E-B8C3-4733-8F11-1649F4E2A72A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

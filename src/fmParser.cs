@@ -22,6 +22,8 @@ namespace RiftLogParser
 			txtLootChannel.Text = Settings.Get("LootChannel");
 			dtStart.Text = Settings.Get("StartTime");
 			dtEnd.Text = Settings.Get("EndTime");
+			dtRaidDate.Text = Settings.Get("RaidDate");
+			txtRaidName.Text = Settings.Get("RaidName");	
 		}
 
 		private void btnBrowseLogFile_Click(object sender, EventArgs e)
@@ -47,7 +49,9 @@ namespace RiftLogParser
 			Settings.Set("StartTime", dtStart.Text);
 			Settings.Set("EndTime", dtEnd.Text);
 			Settings.Set("DumpFileLocation", txtDumpFile.Text);
-			Settings.Set("LogFileLocation", txtLogfile.Text);	
+			Settings.Set("LogFileLocation", txtLogfile.Text);
+			Settings.Set("RaidName", txtRaidName.Text);
+			Settings.Set("RaidDate", dtRaidDate.Text);
 
 			if (_parser != null)
 			{
@@ -68,6 +72,7 @@ namespace RiftLogParser
 			//if (_parser.Members.Count)
 			dataLoot.DataSource = _parser.LootItems;
 			dataMembers.DataSource = _parser.Members;
+			dataLoot.DataSource = _parser.LootItems;
 			txtUpload.Text = _parser.GetUploadData();
 			
 			// For debugging purposes
@@ -149,7 +154,5 @@ namespace RiftLogParser
 					MessageBoxIcon.Exclamation);
 			return;
 		}
-
-	
 	}
 }

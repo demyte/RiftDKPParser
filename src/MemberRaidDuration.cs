@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace RiftLogParser
 {
-	public static class RaidDuration
+	public static class MemberRaidDuration
 	{
 		public static double Calculate(List<DateTime> joins, List<DateTime> leaves, bool atStart, bool atEnd)
 		{
@@ -11,9 +11,7 @@ namespace RiftLogParser
 			var joinCounter = 0;
 			var leaveCounter = 0;
 			double duration = 0;
-			DateTime currentTime = DateTime.Now;
-
-			
+			var currentTime = joins[joinCounter];
 
 			while (findNext != "")
 			{
@@ -25,8 +23,7 @@ namespace RiftLogParser
 							currentTime = joins[joinCounter];
 							findNext = "Leave";
 							joinCounter++;
-						} else
-						{
+						} else {
 							findNext = "";
 						}
 						break;
@@ -40,7 +37,6 @@ namespace RiftLogParser
 						}
 						break;
 				}
-
 			}
 
 			return duration;

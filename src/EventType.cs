@@ -6,7 +6,8 @@ namespace RiftLogParser
 		Leave,
 		Loot,
 		JoinByLogger,
-		LeaveByLogger,		
+		LeaveByLogger,
+		Kill,
 		Invalid
 	}
 }
