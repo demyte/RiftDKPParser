@@ -23,8 +23,14 @@ SOURCE
 
 VERSION HISTORY
 ================
+v1.0.0.3
+- Changed parsed output to reflect what the website will want.
+
+v1.0.0.2
+- Brought in the concept of a raid
+
 v1.0.0.1
- - Fixed issue with logs being in GMT Date format
+- Fixed issue with logs being in GMT Date format
 
 v1.0.0.0
- - Initial version
+- Initial version
