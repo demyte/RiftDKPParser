@@ -5,14 +5,16 @@ namespace RiftLogParser
 {
 	public class LogEntry
 	{
+		private readonly string _raidDate;
 		private readonly string _lootChannel;
 		public string Entry { get; private set; }
 		public DateTime EventTime { get; private set; }
 		public string EventText { get; private set; }
 		public EventType Type { get; private set; }
 
-		public LogEntry(string entry)
+		public LogEntry(string entry, string raidDate)
 		{
+			_raidDate = raidDate;
 			Entry = entry;
 			_lootChannel = String.Format("{0}][", Settings.Get("LootChannel"));
 		}
@@ -27,9 +29,14 @@ namespace RiftLogParser
 
 		public void Parse()
 		{
-			Type = EventType.Invalid;					
+			Type = EventType.Invalid;
+			DateTime parsedDateTime;
 
-			EventTime = DateTime.Parse(Entry.Substring(0, 8)).ToLocalTime();
+			var validDateTime = DateTime.TryParse(string.Format("{0} {1}",_raidDate, Entry.Substring(0, 8)), out parsedDateTime);
+
+			if (!validDateTime) return;
+
+			EventTime = parsedDateTime.ToLocalTime();
 			EventText = Entry.Substring(10);
 
 			if (EventText.EndsWith("has joined the raid"))

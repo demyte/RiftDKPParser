@@ -43,7 +43,7 @@ namespace RiftLogParser
 
 			while ((line = reader.ReadLine()) != null)
 			{
-				var entry = new LogEntry(line);
+				var entry = new LogEntry(line, _parentForm.dtRaidDate.Text);
 				entry.Parse();
 
 				if (EntryIsValid(entry)) continue;
