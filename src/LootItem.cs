@@ -12,6 +12,7 @@ namespace RiftLogParser
 		private string _name;
 		private string _looter;
 		private double _paid;
+		private string _bossName;
 		private string[] _lootDetail;
 
 		public event PropertyChangedEventHandler PropertyChanged;
@@ -75,9 +76,19 @@ namespace RiftLogParser
 			}
 		}
 
+		public string BossName
+		{
+			get { return _bossName; }
+			set
+			{
+				_bossName = value;
+				this.NotifyPropertyChanged("BossName");
+			}
+		}
+
 		public string ShowExportData()
 		{
-			return string.Format("{0},{1},{2}", Name, Looter, Paid);
+			return string.Format("loot,{0},{1},{2},{3}", Looter, Name, Paid, BossName);
 		}
 	}
 }

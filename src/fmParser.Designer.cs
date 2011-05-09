@@ -59,6 +59,12 @@
 			this.label5 = new System.Windows.Forms.Label();
 			this.txtRaidName = new System.Windows.Forms.TextBox();
 			this.label6 = new System.Windows.Forms.Label();
+			this.label7 = new System.Windows.Forms.Label();
+			this.txtPointsPerHour = new System.Windows.Forms.TextBox();
+			this.label8 = new System.Windows.Forms.Label();
+			this.txtAtStartPoints = new System.Windows.Forms.TextBox();
+			this.label9 = new System.Windows.Forms.Label();
+			this.txtAtEndPoints = new System.Windows.Forms.TextBox();
 			this.tabResults.SuspendLayout();
 			this.tabMembers.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.dataMembers)).BeginInit();
@@ -122,7 +128,7 @@
 			// 
 			// btnParse
 			// 
-			this.btnParse.Location = new System.Drawing.Point(12, 98);
+			this.btnParse.Location = new System.Drawing.Point(12, 129);
 			this.btnParse.Name = "btnParse";
 			this.btnParse.Size = new System.Drawing.Size(75, 23);
 			this.btnParse.TabIndex = 8;
@@ -132,7 +138,7 @@
 			// 
 			// txtLogUser
 			// 
-			this.txtLogUser.Location = new System.Drawing.Point(475, 101);
+			this.txtLogUser.Location = new System.Drawing.Point(12, 103);
 			this.txtLogUser.Name = "txtLogUser";
 			this.txtLogUser.Size = new System.Drawing.Size(182, 20);
 			this.txtLogUser.TabIndex = 10;
@@ -140,7 +146,7 @@
 			// label4
 			// 
 			this.label4.AutoSize = true;
-			this.label4.Location = new System.Drawing.Point(475, 85);
+			this.label4.Location = new System.Drawing.Point(9, 87);
 			this.label4.Name = "label4";
 			this.label4.Size = new System.Drawing.Size(50, 13);
 			this.label4.TabIndex = 9;
@@ -152,10 +158,10 @@
 			this.tabResults.Controls.Add(this.tabLoot);
 			this.tabResults.Controls.Add(this.tabUploadOutput);
 			this.tabResults.Controls.Add(this.tabRawOutput);
-			this.tabResults.Location = new System.Drawing.Point(12, 127);
+			this.tabResults.Location = new System.Drawing.Point(12, 158);
 			this.tabResults.Name = "tabResults";
 			this.tabResults.SelectedIndex = 0;
-			this.tabResults.Size = new System.Drawing.Size(836, 412);
+			this.tabResults.Size = new System.Drawing.Size(836, 381);
 			this.tabResults.TabIndex = 11;
 			this.tabResults.SelectedIndexChanged += new System.EventHandler(this.tabResults_SelectedIndexChanged);
 			// 
@@ -165,7 +171,7 @@
 			this.tabMembers.Location = new System.Drawing.Point(4, 22);
 			this.tabMembers.Name = "tabMembers";
 			this.tabMembers.Padding = new System.Windows.Forms.Padding(3);
-			this.tabMembers.Size = new System.Drawing.Size(828, 386);
+			this.tabMembers.Size = new System.Drawing.Size(828, 355);
 			this.tabMembers.TabIndex = 4;
 			this.tabMembers.Text = "Members";
 			this.tabMembers.UseVisualStyleBackColor = true;
@@ -177,7 +183,7 @@
 			this.dataMembers.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.dataMembers.Location = new System.Drawing.Point(3, 3);
 			this.dataMembers.Name = "dataMembers";
-			this.dataMembers.Size = new System.Drawing.Size(822, 380);
+			this.dataMembers.Size = new System.Drawing.Size(822, 349);
 			this.dataMembers.TabIndex = 16;
 			// 
 			// tabLoot
@@ -185,7 +191,7 @@
 			this.tabLoot.Controls.Add(this.dataLoot);
 			this.tabLoot.Location = new System.Drawing.Point(4, 22);
 			this.tabLoot.Name = "tabLoot";
-			this.tabLoot.Size = new System.Drawing.Size(828, 386);
+			this.tabLoot.Size = new System.Drawing.Size(828, 355);
 			this.tabLoot.TabIndex = 3;
 			this.tabLoot.Text = "Loot";
 			this.tabLoot.UseVisualStyleBackColor = true;
@@ -205,7 +211,7 @@
 			this.tabUploadOutput.Location = new System.Drawing.Point(4, 22);
 			this.tabUploadOutput.Name = "tabUploadOutput";
 			this.tabUploadOutput.Padding = new System.Windows.Forms.Padding(3);
-			this.tabUploadOutput.Size = new System.Drawing.Size(828, 386);
+			this.tabUploadOutput.Size = new System.Drawing.Size(828, 355);
 			this.tabUploadOutput.TabIndex = 1;
 			this.tabUploadOutput.Text = "Upload This";
 			this.tabUploadOutput.UseVisualStyleBackColor = true;
@@ -218,7 +224,7 @@
 			this.txtUpload.Name = "txtUpload";
 			this.txtUpload.ReadOnly = true;
 			this.txtUpload.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-			this.txtUpload.Size = new System.Drawing.Size(822, 384);
+			this.txtUpload.Size = new System.Drawing.Size(822, 380);
 			this.txtUpload.TabIndex = 13;
 			this.txtUpload.WordWrap = false;
 			// 
@@ -227,7 +233,7 @@
 			this.tabRawOutput.Controls.Add(this.txtRaw);
 			this.tabRawOutput.Location = new System.Drawing.Point(4, 22);
 			this.tabRawOutput.Name = "tabRawOutput";
-			this.tabRawOutput.Size = new System.Drawing.Size(828, 386);
+			this.tabRawOutput.Size = new System.Drawing.Size(828, 355);
 			this.tabRawOutput.TabIndex = 2;
 			this.tabRawOutput.Text = "Raw Output";
 			this.tabRawOutput.UseVisualStyleBackColor = true;
@@ -240,7 +246,7 @@
 			this.txtRaw.Name = "txtRaw";
 			this.txtRaw.ReadOnly = true;
 			this.txtRaw.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-			this.txtRaw.Size = new System.Drawing.Size(828, 390);
+			this.txtRaw.Size = new System.Drawing.Size(828, 386);
 			this.txtRaw.TabIndex = 13;
 			this.txtRaw.WordWrap = false;
 			// 
@@ -284,15 +290,15 @@
 			// 
 			// txtLootChannel
 			// 
-			this.txtLootChannel.Location = new System.Drawing.Point(666, 101);
+			this.txtLootChannel.Location = new System.Drawing.Point(200, 103);
 			this.txtLootChannel.Name = "txtLootChannel";
-			this.txtLootChannel.Size = new System.Drawing.Size(182, 20);
+			this.txtLootChannel.Size = new System.Drawing.Size(191, 20);
 			this.txtLootChannel.TabIndex = 19;
 			// 
 			// label3
 			// 
 			this.label3.AutoSize = true;
-			this.label3.Location = new System.Drawing.Point(666, 85);
+			this.label3.Location = new System.Drawing.Point(197, 87);
 			this.label3.Name = "label3";
 			this.label3.Size = new System.Drawing.Size(70, 13);
 			this.label3.TabIndex = 18;
@@ -363,11 +369,65 @@
 			this.label6.TabIndex = 23;
 			this.label6.Text = "Raid Date";
 			// 
+			// label7
+			// 
+			this.label7.AutoSize = true;
+			this.label7.Location = new System.Drawing.Point(475, 87);
+			this.label7.Name = "label7";
+			this.label7.Size = new System.Drawing.Size(80, 13);
+			this.label7.TabIndex = 28;
+			this.label7.Text = "Points per Hour";
+			// 
+			// txtPointsPerHour
+			// 
+			this.txtPointsPerHour.Location = new System.Drawing.Point(475, 103);
+			this.txtPointsPerHour.Name = "txtPointsPerHour";
+			this.txtPointsPerHour.Size = new System.Drawing.Size(116, 20);
+			this.txtPointsPerHour.TabIndex = 27;
+			// 
+			// label8
+			// 
+			this.label8.AutoSize = true;
+			this.label8.Location = new System.Drawing.Point(602, 87);
+			this.label8.Name = "label8";
+			this.label8.Size = new System.Drawing.Size(74, 13);
+			this.label8.TabIndex = 30;
+			this.label8.Text = "At Start Points";
+			// 
+			// txtAtStartPoints
+			// 
+			this.txtAtStartPoints.Location = new System.Drawing.Point(601, 103);
+			this.txtAtStartPoints.Name = "txtAtStartPoints";
+			this.txtAtStartPoints.Size = new System.Drawing.Size(114, 20);
+			this.txtAtStartPoints.TabIndex = 29;
+			// 
+			// label9
+			// 
+			this.label9.AutoSize = true;
+			this.label9.Location = new System.Drawing.Point(725, 87);
+			this.label9.Name = "label9";
+			this.label9.Size = new System.Drawing.Size(71, 13);
+			this.label9.TabIndex = 32;
+			this.label9.Text = "At End Points";
+			// 
+			// txtAtEndPoints
+			// 
+			this.txtAtEndPoints.Location = new System.Drawing.Point(725, 103);
+			this.txtAtEndPoints.Name = "txtAtEndPoints";
+			this.txtAtEndPoints.Size = new System.Drawing.Size(122, 20);
+			this.txtAtEndPoints.TabIndex = 31;
+			// 
 			// fmParser
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(857, 580);
+			this.Controls.Add(this.label9);
+			this.Controls.Add(this.txtAtEndPoints);
+			this.Controls.Add(this.label8);
+			this.Controls.Add(this.txtAtStartPoints);
+			this.Controls.Add(this.label7);
+			this.Controls.Add(this.txtPointsPerHour);
 			this.Controls.Add(this.dtRaidDate);
 			this.Controls.Add(this.label5);
 			this.Controls.Add(this.txtRaidName);
@@ -440,6 +500,12 @@
 		private System.Windows.Forms.Label label5;
 		public System.Windows.Forms.TextBox txtRaidName;
 		private System.Windows.Forms.Label label6;
+		private System.Windows.Forms.Label label7;
+		public System.Windows.Forms.TextBox txtPointsPerHour;
+		private System.Windows.Forms.Label label8;
+		public System.Windows.Forms.TextBox txtAtStartPoints;
+		private System.Windows.Forms.Label label9;
+		public System.Windows.Forms.TextBox txtAtEndPoints;
 
 
 	}

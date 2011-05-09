@@ -23,7 +23,11 @@ namespace RiftLogParser
 			dtStart.Text = Settings.Get("StartTime");
 			dtEnd.Text = Settings.Get("EndTime");
 			dtRaidDate.Text = Settings.Get("RaidDate");
-			txtRaidName.Text = Settings.Get("RaidName");	
+			txtRaidName.Text = Settings.Get("RaidName");
+			txtPointsPerHour.Text = Settings.Get("PointsPerHour");
+			txtAtStartPoints.Text = Settings.Get("AtStartPoints");
+			txtAtEndPoints.Text = Settings.Get("AtEndPoints");
+
 		}
 
 		private void btnBrowseLogFile_Click(object sender, EventArgs e)
@@ -52,6 +56,9 @@ namespace RiftLogParser
 			Settings.Set("LogFileLocation", txtLogfile.Text);
 			Settings.Set("RaidName", txtRaidName.Text);
 			Settings.Set("RaidDate", dtRaidDate.Text);
+			Settings.Set("PointsPerHour", txtPointsPerHour.Text);
+			Settings.Set("AtStartPoints", txtAtStartPoints.Text);
+			Settings.Set("AtEndPoints", txtAtEndPoints.Text);
 
 			if (_parser != null)
 			{
@@ -82,7 +89,9 @@ namespace RiftLogParser
 		private bool ValidateForm()
 		{
 			if (dtStart.Text == "" || dtEnd.Text == "" || txtLogfile.Text == "" ||
-			    txtDumpFile.Text == "" || txtLogUser.Text == "" || txtLootChannel.Text == "")
+			    txtDumpFile.Text == "" || txtLogUser.Text == "" || txtLootChannel.Text == "" ||
+				txtAtEndPoints.Text == "" || txtAtStartPoints.Text == "" || txtPointsPerHour.Text == "" ||
+				txtRaidName.Text == "" || dtRaidDate.Text == "")
 			{
 				MessageBox.Show(
 					"You have not filled out all fields.  Please do so before parsing.",
@@ -154,5 +163,6 @@ namespace RiftLogParser
 					MessageBoxIcon.Exclamation);
 			return;
 		}
+
 	}
 }

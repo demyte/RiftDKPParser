@@ -11,6 +11,7 @@ namespace RiftLogParser
 		public List<DateTime> Leaves { get; private set; }
 		private bool _atStart;
 		private bool _atEnd;
+		private bool _onBench;
 		private double _duration;
 
 		// Need this empty constructor for DGV Binding
@@ -52,6 +53,16 @@ namespace RiftLogParser
 			{
 				_atEnd = value;
 				this.NotifyPropertyChanged("AtEnd");
+			}
+		}
+
+		public bool OnBench
+		{
+			get { return _onBench; }
+			set
+			{
+				_onBench = value;
+				this.NotifyPropertyChanged("OnBench");
 			}
 		}
 
@@ -125,7 +136,7 @@ namespace RiftLogParser
 
 		public string ShowExportData()
 		{
-			return string.Format("{0},{1},{2},{3}", Name, AtStart, AtEnd, Duration);
+			return string.Format("attendance,{0},{1},{2},{3},{4}", Name, Duration, AtStart, AtEnd, OnBench);
 		}
 	}
 }

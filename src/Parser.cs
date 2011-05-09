@@ -29,7 +29,10 @@ namespace RiftLogParser
 			_raid = new Raid(_parentForm.txtRaidName.Text,
 							DateTime.Parse(String.Format("{0} {1}", _parentForm.dtRaidDate.Text, _parentForm.dtStart.Text)),
 							DateTime.Parse(String.Format("{0} {1}", _parentForm.dtRaidDate.Text, _parentForm.dtStart.Text)),
-							DateTime.Parse(String.Format("{0} {1}", _parentForm.dtRaidDate.Text, _parentForm.dtEnd.Text)));
+							DateTime.Parse(String.Format("{0} {1}", _parentForm.dtRaidDate.Text, _parentForm.dtEnd.Text)),
+							int.Parse(_parentForm.txtPointsPerHour.Text),
+							int.Parse(_parentForm.txtAtStartPoints.Text),
+							int.Parse(_parentForm.txtAtEndPoints.Text));
 
 			// Get all the members found in the raid.xml
 			ParseMembersFromRaidXML();
@@ -172,10 +175,10 @@ namespace RiftLogParser
 
 		public string GetUploadData()
 		{
-			var raidData = string.Format("{0},{1},{2},{3},{4}" + "\r\n", _raid.RaidName, _raid.RaidDate, _raid.StartTime, _raid.EndTime, _raid.Duration);
+			var raidData = _raid.ShowExportedData();
 			var memberData = Members.Aggregate("", (current, raidMember) => current + (raidMember.ShowExportData() + "\r\n"));
 			var lootData = LootItems.Aggregate("", (current, LootItem) => current + (LootItem.ShowExportData() + "\r\n"));
-			return "RAID\r\n" + raidData + "\r\nATTENDANCE\r\n" + memberData + "\r\nLOOT\r\n" + lootData;
+			return raidData + memberData + lootData;
 		}
 	}
 }
