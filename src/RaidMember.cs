@@ -122,7 +122,7 @@ namespace RiftLogParser
 
 			
 			Duration = MemberRaidDuration.Calculate(Joins, Leaves, AtStart, AtEnd);	
-			}
+		}
 
 		private bool IsJoinLast()
 		{
@@ -136,7 +136,12 @@ namespace RiftLogParser
 
 		public string ShowExportData()
 		{
-			return string.Format("attendance,{0},{1},{2},{3},{4}", Name, Duration, AtStart, AtEnd, OnBench);
+			return string.Format("attendance,{0},{1},{2},{3},{4}", 
+									Name, 
+									Duration,
+									AtStart ? Settings.Get("AtStartPoints") : "0", 
+									AtEnd ? Settings.Get("AtEndPoints") : "0", 
+									OnBench ? 1:0);
 		}
 	}
 }
